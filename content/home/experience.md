@@ -47,4 +47,7 @@ experience:
 
 design:
   columns: '2'
+
+design.background:
+  color: green
 ---

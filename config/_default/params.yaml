@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: strawberry
+  theme_day: Coffee
+  theme_night: Earth
   font: Rose
   font_size: L
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: 'personal'
     org_name: 'iit bombay'
     description: 'Personal site of ayush maheshwari.'
-    twitter: 'wowchemy'
+    twitter: 'ayushmx'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

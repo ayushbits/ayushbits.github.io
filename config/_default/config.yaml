@@ -73,3 +73,5 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+design.background:
+  color: blue
