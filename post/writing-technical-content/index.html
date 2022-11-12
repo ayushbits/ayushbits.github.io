@@ -238,6 +238,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T9FZ0BFFH7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-T9FZ0BFFH7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -962,7 +1001,7 @@ data.head()
 
 
 
-<div id="chart-725936841" class="chart"></div>
+<div id="chart-412639785" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -972,7 +1011,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-725936841', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-412639785', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
