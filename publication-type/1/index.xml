@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>UDAAN - Machine Learning based Post-Editing tool for Document Translation,</title>
+      <title>UDAAN - Machine Learning based Post-Editing tool for Document Translation</title>
       <link>https://ayushbits.github.io/publication/udaan-cods/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/udaan-cods/</guid>
@@ -32,26 +32,37 @@
     </item>
     
     <item>
-      <title>A Benchmark and Dataset for Post-OCR text correction in Sanskrit,</title>
+      <title>A Benchmark and Dataset for Post-OCR text correction in Sanskrit</title>
       <link>https://ayushbits.github.io/publication/ocr-sanskrit-emnlp/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/ocr-sanskrit-emnlp/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;p&gt;Sanskrit is a classical language with about 30 million extant manuscripts fit for digitisation, available in written, printed or scanned-image forms. However, it is still considered to be a low-resource language when it comes to available digital resources.  In this work, we release a post-OCR text correction dataset containing around 218,000 sentences, with 1.5 million words, from 30 different books. Texts in Sanskrit are known to be diverse in terms of their linguistic and stylistic usage since Sanskrit was the `lingua francua&amp;rsquo; for discourse in the Indian subcontinent  for about 3 millennia. Keeping this in mind, we release a multi-domain dataset, from areas as diverse as astronomy, medicine and mathematics, with some of them as old as 18 centuries. Further, we release multiple strong baselines as benchmarks for the task, based on pre-trained Seq2Seq language models. We find that our best-performing model, consisting of
+byte level tokenization in conjunction with phonetic encoding (Byt5+SLP1), yields a 23% point increase over the OCR output in terms of word and character error rates. Moreover, we perform extensive experiments in evaluating these models on their performance and analyse common causes of mispredictions both at the graphemic and lexical levels. Our code and dataset is publicly available at &lt;a href=&#34;https://github.com/ayushbits/pe-ocr-sanskrit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ayushbits/pe-ocr-sanskrit&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>SPEAR: Semi-supervised Data Programming in Python,</title>
+      <title>SPEAR: Semi-supervised Data Programming in Python</title>
       <link>https://ayushbits.github.io/publication/spear-demo-emnlp/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/spear-demo-emnlp/</guid>
@@ -70,7 +81,7 @@
     </item>
     
     <item>
-      <title>Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming,</title>
+      <title>Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming</title>
       <link>https://ayushbits.github.io/publication/aggregate-lf-acl/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/aggregate-lf-acl/</guid>
@@ -89,7 +100,7 @@
     </item>
     
     <item>
-      <title>Rule Augmented Unsupervised Constituency Parsing,</title>
+      <title>Rule Augmented Unsupervised Constituency Parsing</title>
       <link>https://ayushbits.github.io/publication/rules-short-acl/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/rules-short-acl/</guid>
@@ -112,41 +123,63 @@
       <link>https://ayushbits.github.io/publication/semi-dp-acl/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/semi-dp-acl/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;p&gt;The paradigm of data programming, which uses weak supervision in the form of rules/labelling functions, and semi-supervised learning, which augments small amounts of labelled data with a large unlabelled dataset, have shown great promise in several text classification scenarios. In this work, we argue that by not using any labelled data, data programming based approaches can yield sub-optimal performances, particularly when the labelling functions are noisy.  The first contribution of this work is an introduction of a framework, SPEAR which is a semi-supervised data programming paradigm that learns a joint model that effectively uses the rules/labelling func- tions along with semi-supervised loss functions on the feature space. Next, we also study SPEAR-SS which additionally does subset selection on top of the joint semi-supervised data programming objective and selects a set of examples that can be used as the labelled set by SPEAR . The goal of SPEAR-SS is to ensure that the labelled data can complement the labelling functions, thereby benefiting from both data-programming as well as appropriately selected data for human labelling. We demonstrate that by effectively combining semi-supervision, data-programming, and sub- set selection paradigms, we significantly out-perform the current state-of-the-art on seven publicly available datasets.
+The source code is available &lt;a href=&#34;https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection&lt;/a&gt;.&lt;/p&gt;
+&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification,</title>
+      <title>Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification</title>
       <link>https://ayushbits.github.io/publication/joint_learning_hyperbolic/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/joint_learning_hyperbolic/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;p&gt;We consider the problem of multi-label clas- sification, where the labels lie in a hierarchy. However, unlike most existing works in hierarchical multi-label classification, we do not assume that the label-hierarchy is known. Encouraged by the recent success of hyperbolic embeddings in capturing hierarchical relations, we propose to jointly learn the classifier parameters as well as the label embeddings. Such a joint learning is expected to provide a two-fold advantage: i) the classifier generalises better as it leverages the prior knowledge of existence of a hierarchy over the labels, and ii) in addition to the label co-occurrence information, the label-embedding may benefit from the manifold structure of the input datapoints, leading to embeddings that are more faithful to the label hierarchy. We propose a novel formulation for the joint learning and empirically evaluate its efficacy. The results show that the joint learning improves over the baseline that employs label co-occurrence based pre-trained hyperbolic embeddings. Moreover, the proposed classifiers achieve state-of-the-art generalization on standard benchmarks. We also present evaluation of the hyperbolic embeddings obtained by joint learning and show that they represent the hierarchy more accurately than the other alternatives. The source code of the paper is available at &lt;a href=&#34;https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+ --&gt;
 </description>
     </item>
     
     <item>
-      <title>Unsupervised Learning of Explainable Parse Trees for Improved Generalisation,</title>
+      <title>Unsupervised Learning of Explainable Parse Trees for Improved Generalisation</title>
       <link>https://ayushbits.github.io/publication/parsetree-ijcnn/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/parsetree-ijcnn/</guid>
@@ -165,7 +198,7 @@
     </item>
     
     <item>
-      <title>Tale of tails using rule augmented sequence labeling for event extraction,</title>
+      <title>Tale of tails using rule augmented sequence labeling for event extraction</title>
       <link>https://ayushbits.github.io/publication/tail-starai/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/tail-starai/</guid>
@@ -184,7 +217,7 @@
     </item>
     
     <item>
-      <title>OCR On-the-Go: Robust End-to-end Systems for Reading License Plates and Street Signs,</title>
+      <title>OCR On-the-Go: Robust End-to-end Systems for Reading License Plates and Street Signs</title>
       <link>https://ayushbits.github.io/publication/ocr-icdar/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/ocr-icdar/</guid>
@@ -203,7 +236,7 @@
     </item>
     
     <item>
-      <title>DynGAN: Generative Adversarial Networks for Dynamic Network Embedding,</title>
+      <title>DynGAN: Generative Adversarial Networks for Dynamic Network Embedding</title>
       <link>https://ayushbits.github.io/publication/dyngan/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/dyngan/</guid>
@@ -222,7 +255,7 @@
     </item>
     
     <item>
-      <title>Representation Learning on Graphs by Integrating Content and Structure Information,</title>
+      <title>Representation Learning on Graphs by Integrating Content and Structure Information</title>
       <link>https://ayushbits.github.io/publication/rep_learning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/rep_learning/</guid>
@@ -241,7 +274,7 @@
     </item>
     
     <item>
-      <title>Entity Resolution and Location Disambiguation in the Ancient Hindu Temples Domain using Web Data,</title>
+      <title>Entity Resolution and Location Disambiguation in the Ancient Hindu Temples Domain using Web Data</title>
       <link>https://ayushbits.github.io/publication/temples-demo/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/temples-demo/</guid>
@@ -260,7 +293,7 @@
     </item>
     
     <item>
-      <title>Peak Electricity Demand and Global Warming in the Industrial and Residential areas of Pune : An Extreme Value Approach,</title>
+      <title>Peak Electricity Demand and Global Warming in the Industrial and Residential areas of Pune : An Extreme Value Approach</title>
       <link>https://ayushbits.github.io/publication/elec-pune/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/elec-pune/</guid>
