@@ -94,18 +94,6 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayushbits.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayushbits.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayushbits.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ayushbits.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,20 +118,8 @@
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayushbits.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ayushbits.github.io/publication/dyngan/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayushbits.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayushbits.github.io/post/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayushbits.github.io/post/jupyter/</loc>
@@ -170,15 +146,14 @@
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayushbits.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayushbits.github.io/post/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://ayushbits.github.io/news/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayushbits.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayushbits.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
