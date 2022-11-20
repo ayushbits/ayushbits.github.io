@@ -57,9 +57,37 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>SPEAR: Semi-supervised Data Programming in Python</title>
+      <link>https://ayushbits.github.io/publication/spear-demo-emnlp/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/spear-demo-emnlp/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reweighing auxiliary losses in supervised learning</title>
+      <link>https://ayushbits.github.io/publication/reweighing-loss-aaai23/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/reweighing-loss-aaai23/</guid>
+      <description>&lt;p&gt;Apart from the standard supervised learning using hard labels, often auxiliary losses are used in many supervised learning settings to improve the model&amp;rsquo;s generalisation. For example, knowledge distillation adds a second, teacher mimicking loss to the training of a model, where the teacher may be a pretrained model that outputs a richer distribution over labels. Similarly, in settings with limited labelled data, weak labelling information is used in form of labelling functions. Auxiliary losses are introduced here to combat labelling functions that may be noisy rule-based approximations of true labels. We tackle the problem of learning to combine these losses in a principled manner. We introduce AMAL which learns instance-specific weights using meta learning on a validation metric to achieve optimal mixing of losses. Experiments in a number of knowledge distillation and rule denoising domains show that AMAL provides noticeable gains over competitive baselines in those domains. We empirically analyze our method and share insights into the mechanisms through which it provides performance gains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Benchmark and Dataset for Post-OCR text correction in Sanskrit</title>
       <link>https://ayushbits.github.io/publication/ocr-sanskrit-emnlp/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/ocr-sanskrit-emnlp/</guid>
       <description>&lt;p&gt;Sanskrit is a classical language with about 30 million extant manuscripts fit for digitisation, available in written, printed or scanned-image forms. However, it is still considered to be a low-resource language when it comes to available digital resources.  In this work, we release a post-OCR text correction dataset containing around 218,000 sentences, with 1.5 million words, from 30 different books. Texts in Sanskrit are known to be diverse in terms of their linguistic and stylistic usage since Sanskrit was the `lingua francua&amp;rsquo; for discourse in the Indian subcontinent  for about 3 millennia. Keeping this in mind, we release a multi-domain dataset, from areas as diverse as astronomy, medicine and mathematics, with some of them as old as 18 centuries. Further, we release multiple strong baselines as benchmarks for the task, based on pre-trained Seq2Seq language models. We find that our best-performing model, consisting of
 byte level tokenization in conjunction with phonetic encoding (Byt5+SLP1), yields a 23% point increase over the OCR output in terms of word and character error rates. Moreover, we perform extensive experiments in evaluating these models on their performance and analyse common causes of mispredictions both at the graphemic and lexical levels. Our code and dataset is publicly available at &lt;a href=&#34;https://github.com/ayushbits/pe-ocr-sanskrit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ayushbits/pe-ocr-sanskrit&lt;/a&gt;.&lt;/p&gt;
@@ -83,25 +111,6 @@ byte level tokenization in conjunction with phonetic encoding (Byt5+SLP1), yield
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SPEAR: Semi-supervised Data Programming in Python</title>
-      <link>https://ayushbits.github.io/publication/spear-demo-emnlp/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/publication/spear-demo-emnlp/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -643,6 +652,7 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[20/Nov/22]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.03250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reweighing auxiliary losses in supervised learning&lt;/a&gt; accepted at AAAI 23.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[09/Nov/22]&lt;/strong&gt; Received grant from EMNLP D&amp;amp;I to travel and present our work at EMNLP 2022 in Abu Dhabi. Thanks EMNLP ! 🥰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/Nov/22]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2203.01644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo paper&lt;/a&gt; on our in-house translation workbench for efficient translation of documents  accepted at CODS-COMAD 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[13/Oct/22]&lt;/strong&gt; Our NMT work is on pre-print &lt;a href=&#34;https://arxiv.org/abs/2210.06996&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DICTDIS: Dictionary Constrained Disambiguation for Improved NMT&lt;/a&gt;&lt;/p&gt;
