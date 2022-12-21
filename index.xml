@@ -134,7 +134,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>UDAAN-An NMT pipeline &#43; Post-editing tool to translate document</title>
+      <title>UDAAN - An NMT pipeline &#43; Post-editing tool to translate document</title>
       <link>https://ayushbits.github.io/project/udaan/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/project/udaan/</guid>
@@ -652,6 +652,7 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[05/Jan/23]&lt;/strong&gt; I will be presenting our post-editing ecosystem, &lt;a href=&#34;https://udaanproject.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDAAN&lt;/a&gt; used by technical education departments for translating &amp;gt;50 books at the moment. Refer Project section below.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[20/Nov/22]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.03250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reweighing auxiliary losses in supervised learning&lt;/a&gt; accepted at AAAI 2023 😇.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[09/Nov/22]&lt;/strong&gt; Received grant from EMNLP D&amp;amp;I to travel and present our work at EMNLP 2022 in Abu Dhabi ✈️. Thanks EMNLP D&amp;amp;I ! 🤩&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/Nov/22]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2203.01644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo paper&lt;/a&gt; on our in-house translation workbench for efficient translation of documents  accepted at CODS-COMAD 2023.&lt;/p&gt;
