@@ -653,7 +653,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>News</title>
+      <title>Updates</title>
       <link>https://ayushbits.github.io/news/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/news/</guid>
@@ -666,15 +666,44 @@ $$&lt;/p&gt;
 
 
 
-&lt;p&gt;&lt;strong&gt;[14/Jul/23]&lt;/strong&gt; Along with &lt;a href=&#34;https://www.cse.iitb.ac.in/~ganesh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ganesh Ramakrishnan&lt;/a&gt; I delivered an invited half-day tutorial at &lt;a href=&#34;https://educationaldatamining.org/edm2023/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Data Mining Conference&lt;/a&gt; held at IISc Bangalore. More details in Talk section below ! 🤩&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[17/Mar/23]&lt;/strong&gt; First batch of engineering books translated in Malayalam using our post-editing tool &lt;a href=&#34;https://www.youtube.com/live/1rqD-u061SU?feature=share&amp;amp;t=3160&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;was released by Honourable President of India&lt;/a&gt; in Thiruvananthapurm, Kerala. More details &lt;a href=&#34;https://udaanproject.org/MediaCoverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on this page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[06/Jan/23]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://ayushbits.github.io/publication/udaan-cods/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translation post-editing tool&lt;/a&gt; won the best paper award at CODS-COMAD 2023 🥳.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[27/Dec/22]&lt;/strong&gt; &lt;a href=&#34;https://www.aicte-india.org/content/aicte-acknowledgement-udaan-team-iit-bombay-technical-book-writing-scheme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All India Council for Technical Education(AICTE) acknowledged&lt;/a&gt; our team of &lt;a href=&#34;https://www.udaanproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDAAN project&lt;/a&gt; from IIT Bombay, for providing our end-to-end Machine Translation Framework that includes extensive use of lexical resources, a human-in-the-loop machine learning based post-editing platform, etc. which is being used by AICTE for speedy translation of 100s of textbooks into multiple Indian languages. Glad to be a part of the team 😇 !&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[20/Nov/22]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.03250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reweighing auxiliary losses in supervised learning&lt;/a&gt; accepted at AAAI 2023 😇.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[09/Nov/22]&lt;/strong&gt; Received grant from EMNLP D&amp;amp;I to travel and present our work at EMNLP 2022 in Abu Dhabi ✈️. Thanks EMNLP D&amp;amp;I ! 🤩&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[08/Nov/22]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2203.01644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo paper&lt;/a&gt; on our in-house translation workbench for efficient translation of documents  accepted at CODS-COMAD 2023.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[13/Oct/22]&lt;/strong&gt; Our NMT work is available on pre-print &lt;a href=&#34;https://arxiv.org/abs/2210.06996&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DICTDIS: Dictionary Constrained Disambiguation for Improved NMT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[06/Oct/22]&lt;/strong&gt; Our &lt;a href=&#34;http://arxiv.org/abs/2211.07980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post-editing work on OCR&lt;/a&gt; in Sanskrit langugage accepted at EMNLP 2022.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📝 Serving in the PC for EMNLP Research &amp;amp; Industry Track 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📝 Serving in the PC for ACL ARR, 2022 - Present.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Jul 23]&lt;/strong&gt; 🎤 Along with &lt;a href=&#34;https://www.cse.iitb.ac.in/~ganesh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ganesh Ramakrishnan&lt;/a&gt; I delivered an invited half-day tutorial at &lt;a href=&#34;https://educationaldatamining.org/edm2023/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Data Mining Conference&lt;/a&gt; held at IISc Bangalore. More details in Talk section below ! 🤩&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Mar 23]&lt;/strong&gt; 📚️ First batch of engineering books translated in Malayalam using our post-editing tool &lt;a href=&#34;https://www.youtube.com/live/1rqD-u061SU?feature=share&amp;amp;t=3160&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;was released by Honourable President of India&lt;/a&gt; in Thiruvananthapurm, Kerala. More details &lt;a href=&#34;https://udaanproject.org/MediaCoverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on this page&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 23]&lt;/strong&gt; 🏆️ Our paper on &lt;a href=&#34;https://ayushbits.github.io/publication/udaan-cods/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;translation post-editing tool&lt;/a&gt; won the best paper award at CODS-COMAD 2023 🥳.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Dec 22]&lt;/strong&gt; 😍 &lt;a href=&#34;https://www.aicte-india.org/content/aicte-acknowledgement-udaan-team-iit-bombay-technical-book-writing-scheme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All India Council for Technical Education(AICTE) acknowledged&lt;/a&gt; our team of &lt;a href=&#34;https://www.udaanproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDAAN project&lt;/a&gt; from IIT Bombay, for providing our end-to-end Machine Translation Framework that includes extensive use of lexical resources, a human-in-the-loop machine learning based post-editing platform, etc. which is being used by AICTE for speedy translation of 100s of textbooks into multiple Indian languages. Glad to be a part of the team 😇 !&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📝 Served in the PC for ACL 2021, ACL 2022 and EACL 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Nov 22]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.03250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reweighing auxiliary losses in supervised learning&lt;/a&gt; accepted at AAAI 2023 😇.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Nov 22]&lt;/strong&gt; 🤩 Received grant from EMNLP D&amp;amp;I to travel and present our work at EMNLP 2022 in Abu Dhabi ✈️. Thanks EMNLP D&amp;amp;I !&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Nov 22]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2203.01644&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo paper&lt;/a&gt; on our in-house translation workbench for efficient translation of documents  accepted at CODS-COMAD 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 22]&lt;/strong&gt; Our NMT work is available on pre-print &lt;a href=&#34;https://arxiv.org/abs/2210.06996&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DICTDIS: Dictionary Constrained Disambiguation for Improved NMT&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 22]&lt;/strong&gt; Our &lt;a href=&#34;http://arxiv.org/abs/2211.07980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post-editing work on OCR&lt;/a&gt; in Sanskrit langugage accepted at EMNLP 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
     </item>
