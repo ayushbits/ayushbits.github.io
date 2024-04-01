@@ -5,12 +5,37 @@
     <link>https://ayushbits.github.io/event/</link>
       <atom:link href="https://ayushbits.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jul 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ayushbits.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>At NASSCOM NLTF 2024, Feb 18-Feb 19</title>
+      <link>https://ayushbits.github.io/talk/at-nasscom-nltf-2024-feb-18-feb-19/</link>
+      <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/talk/at-nasscom-nltf-2024-feb-18-feb-19/</guid>
+      <description>&lt;p&gt;Presented our work in the NLTF workshop on building Indian language foundation models.&lt;/p&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited half-day tutorial at EDM, 14 July 2023</title>
