@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>translation | Ayush Maheshwari</title>
-    <link>https://ayushbits.github.io/tag/translation/</link>
-      <atom:link href="https://ayushbits.github.io/tag/translation/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/translation/</link>
+      <atom:link href="/tag/translation/index.xml" rel="self" type="application/rss+xml" />
     <description>translation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>translation</title>
-      <link>https://ayushbits.github.io/tag/translation/</link>
+      <link>/tag/translation/</link>
     </image>
     
     <item>
       <title>UDAAN - An NMT pipeline &#43; Post-editing tool to translate document (Best Paper Award at CODS-COMAD 2023)</title>
-      <link>https://ayushbits.github.io/project/udaan/</link>
+      <link>/project/udaan/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/project/udaan/</guid>
+      <guid>/project/udaan/</guid>
       <description></description>
     </item>
     

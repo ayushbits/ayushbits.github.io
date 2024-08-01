@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Ayush Maheshwari</title>
-    <link>https://ayushbits.github.io/event/</link>
-      <atom:link href="https://ayushbits.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ayushbits.github.io/event/</link>
+      <link>/event/</link>
     </image>
     
     <item>
       <title>At NASSCOM NLTF 2024, Feb 18-Feb 19</title>
-      <link>https://ayushbits.github.io/talk/at-nasscom-nltf-2024-feb-18-feb-19/</link>
+      <link>/talk/at-nasscom-nltf-2024-feb-18-feb-19/</link>
       <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/talk/at-nasscom-nltf-2024-feb-18-feb-19/</guid>
+      <guid>/talk/at-nasscom-nltf-2024-feb-18-feb-19/</guid>
       <description>&lt;p&gt;Presented our work in the NLTF workshop on building Indian language foundation models.&lt;/p&gt;
 &lt;!-- 
 
@@ -39,9 +39,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Invited half-day tutorial at EDM, 14 July 2023</title>
-      <link>https://ayushbits.github.io/talk/invited-half-day-tutorial-at-edm-14-july-2023/</link>
+      <link>/talk/invited-half-day-tutorial-at-edm-14-july-2023/</link>
       <pubDate>Fri, 14 Jul 2023 09:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/talk/invited-half-day-tutorial-at-edm-14-july-2023/</guid>
+      <guid>/talk/invited-half-day-tutorial-at-edm-14-july-2023/</guid>
       <description>&lt;p&gt;Along with Prof. Ganesh Ramakrishnan, I delivered a half-day tutorial on our translation ecosystem at Education Data mining conference 2023 in IISC Bengaluru on the topic &amp;ldquo;Data Efficient Machine Learning for Educational Content Creation&amp;rdquo;. Slides coming soon !&lt;/p&gt;
 &lt;!-- 
 
@@ -64,9 +64,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>At EMNLP 2022, Dec 6-Dec 12</title>
-      <link>https://ayushbits.github.io/talk/at-emnlp-2022-dec-6-dec-12/</link>
+      <link>/talk/at-emnlp-2022-dec-6-dec-12/</link>
       <pubDate>Tue, 06 Dec 2022 13:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/talk/at-emnlp-2022-dec-6-dec-12/</guid>
+      <guid>/talk/at-emnlp-2022-dec-6-dec-12/</guid>
       <description>&lt;p&gt;I will be presenting our work on post-ocr on Sanskrit and data programming library in EMNLP 2022. See you there!&lt;/p&gt;
 &lt;!-- 
 
