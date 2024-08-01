@@ -22,7 +22,7 @@ marketing:
     twitter: 'ayushmx'
     linkedin: 'ayushx'
   analytics:
-    google_tag_manager: 'GT-MB8XM2L'
+    google_analytics: 'GT-MB8XM2L'
     baidu_tongji: ''
   verification:
     google: ''
