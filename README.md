@@ -1,3 +1,7 @@
+- Source code folder with public/ is present in `source` branch
+- public folder is committed to `master` branch
+- check branch of the present commit using `git branch` command
+- commit to source branch using terminal. 
 
 Compatiblity:
 
