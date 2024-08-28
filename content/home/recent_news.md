@@ -50,4 +50,4 @@ title = "Updates"
  css_class = ""
 +++
 
-{{< readfromfile "/content/newslist.dat" 7>}} 
+{{< readfromfile "/content/newslist.dat" 10>}} 
