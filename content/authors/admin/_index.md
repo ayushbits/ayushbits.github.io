@@ -83,14 +83,14 @@ email: ''
 highlight_name: true
 ---
  <span style="color:green">
-Update:  Successfully defended my <u>PhD thesis</u> 😇
+Update:  Successfully defended my PhD thesis (2/July/24) 😇
 </span> 
 <br><br>
 
-I am Ayush Maheshwari (आयुष माहेश्वरी), completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan </a> . I was funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a>.
+I am Ayush Maheshwari (आयुष माहेश्वरी), completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan </a>. I was funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.
 <!-- and <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html" target="_blank">Prof. Manjesh Kumar Hanawal</a> -->
 
-My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. Currently, I am working on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.
+My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. I have worked on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.
 
 I am a key member of neural machine translation project, <a href="https://udaanproject.org">UDAAN</a>, which helps publishers to quickly translate technical content in Indian languages. The project is open-source and used by several Indian government technical education agencies and official languages departments.
 
