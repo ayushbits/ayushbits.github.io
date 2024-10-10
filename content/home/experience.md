@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist
+    company: Vizzhy Inc
+    company_url: 'https://vizzhy.com'
+    company_logo: 
+    location: Bengaluru
+    date_start: '2023-09-01'
+    date_end: '2024-09-30'
+    description: |2-
+      1. Led a team of 5 people to build Indic-large language models from scratch.
+      2. Developing data collection & processing pipelines for training and evaluation.
+      3. Training of tokenizer and designing model training architecture.
+      4. Training the model on large accelerator cluster.
+      5. Instruction tuning and preference training of the pre-trained models.
+
   - title: Research Intern
     company: Adobe Research
     company_url: 'https://research.adobe.com'

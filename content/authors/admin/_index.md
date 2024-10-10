@@ -37,12 +37,12 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Indian Institute of Technology Bombay
-      year: Jan 2019 - Sep 2023
+      year: Jan 2019 - Aug 2023 (Defended July 2024)
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
+    # - course: BTech (CSE)
+    #   institution: Rajasthan Technical University
     #   year: 2008
 
 # Social/Academic Networking
