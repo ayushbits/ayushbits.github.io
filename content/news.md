@@ -14,10 +14,10 @@ image = ""
 caption = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 [advanced]
  # Custom CSS. 
- css_style = "width:90%"
+ css_style = "max-width:1060px"
 
 +++
 

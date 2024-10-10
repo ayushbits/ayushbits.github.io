@@ -13,7 +13,7 @@ title = "Updates"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ title = "Updates"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#d9c6c142"
+  color = "#d9c6c142"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -36,7 +36,7 @@ title = "Updates"
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
