@@ -10,7 +10,7 @@ last_name: Maheshwari
 superuser: true
 
 # Role/position/tagline
-role: Sr. Solutions Architect at NVIDIA <br> PhD in NLP/ML from [CSE, IITB](https://www.cse.iitb.ac.in)
+role: Sr. Solutions Architect at [NVIDIA](https://www.nvidia.com) <br> PhD in NLP/ML from [CSE, IITB](https://www.cse.iitb.ac.in)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -83,18 +83,18 @@ email: ''
 highlight_name: true
 ---
  <span style="color:green">
-Update:  Successfully defended my PhD thesis (2/July/24) 😇
+Big Update: PhD done (July/24) 😇. Joined NVIDIA 😌
 </span> 
 <br><br>
 
-I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team. Previously, I have completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan </a>. I was funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.
+I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team. Previously, I have completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan</a>. I was fortunate to be funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.
 <!-- and <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html" target="_blank">Prof. Manjesh Kumar Hanawal</a> -->
 
 My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. I have worked on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.
 
 During my PhD, I was a key member of neural machine translation project, <a href="https://udaanproject.org">UDAAN</a>, which helps publishers to quickly translate technical content in Indian languages. The project is open-source and used by several Indian government technical education agencies and official languages departments.
 
-In my spare time, I enjoy playing and reading about Indian culture, Ramáyaṇa and Mahábhárat. <br/>
+In my spare time, I enjoy playing tabletennis, cricket and reading about Indian culture, Ramáyaṇa and Mahábhárat. <br/>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}
 (Last updated: Oct 2024)

@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email:  ~ayusham~ at cse.iitb.ac.in (delete leading and trailing ~'s)
+  email:  ~ayush.hakmn~ via gmail 
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -46,11 +46,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://www.twitter.com/in/ayushmx/ '
+      link: 'https://www.twitter.com/in/ayushmx/'
     - icon: linkedin
       icon_pack: fab
       name: DM Me
-      link: 'https://www.linkedin.com/in/ayusmx/ '
+      link: 'https://www.linkedin.com/in/ayushx/'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
