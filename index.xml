@@ -5,12 +5,50 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayush Maheshwari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ayush Maheshwari</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>LexGen: Domain-aware Multilingual Lexicon Generation</title>
+      <link>/publication/lexgen-acl/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/lexgen-acl/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification</title>
+      <link>/publication/naacl-arise/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/naacl-arise/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DictDis: Dictionary Constrained Disambiguation for Improved NMT</title>
@@ -666,7 +704,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;[Jan 25]&lt;/strong&gt; Our paper on synthetic data generation, &lt;em&gt;ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification&lt;/em&gt; is accepted at NAACL 2025 🎆🎇 [Preprint Soon]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 25]&lt;/strong&gt; Our paper on domain aware lexicon generation is accepted at ACL Main Conference 2025 ❤️ 😊 [&lt;a href=&#34;https://arxiv.org/abs/2405.11200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LexGen: Domain aware multilingual lexicon generation&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 25]&lt;/strong&gt; Our paper on synthetic data generation, &lt;em&gt;ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification&lt;/em&gt; is accepted at NAACL 2025 🎆🎇 [&lt;a href=&#34;https://aclanthology.org/2025.findings-naacl.359/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;[Nov 24]&lt;/strong&gt; Delighted to announce that my PhD work is awarded with &lt;em&gt;Impactful Research Award 2023&lt;/em&gt; by IIT Bombay ❤️ 🎇!&lt;/p&gt;
