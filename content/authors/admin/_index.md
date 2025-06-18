@@ -97,4 +97,4 @@ During my PhD, I was a key member of neural machine translation project, <a href
 In my spare time, I enjoy playing tabletennis, cricket and reading about Indian culture, Ramáyaṇa and Mahábhárat. <br/>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}
-(Last updated: Oct 2024)
+(Last updated: May 2025)

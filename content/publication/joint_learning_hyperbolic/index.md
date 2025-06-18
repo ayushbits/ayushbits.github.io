@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'Poster_EACL.pdf'
+url_pdf: 'joint_learning_hyperbolic.pdf'
 url_code: 'https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: 'Poster_EACL.pdf'
