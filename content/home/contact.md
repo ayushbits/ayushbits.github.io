@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email:  ~ayush.hakmn~ via gmail 
+  email: <firstname>.hakmn<at>gmail
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -45,11 +45,11 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://www.twitter.com/in/ayushmx/'
+      name: Twitter DM
+      link: 'https://twitter.com/ayushmx'
     - icon: linkedin
       icon_pack: fab
-      name: DM Me
+      name: LinkedIn Message
       link: 'https://www.linkedin.com/in/ayushx/'
     # - icon: video
     #   icon_pack: fas

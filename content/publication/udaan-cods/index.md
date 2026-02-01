@@ -31,10 +31,10 @@ publication_types: ['1']
 publication: Best Paper Award In *CODS-COMAD 2023*
 # publication_short: In *ICW*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: UDAAN is an end-to-end machine translation and post-editing pipeline that enables rapid translation of technical documents into Indian languages. The tool integrates neural MT with a user-friendly post-editing interface, helping translators achieve professional-quality translations efficiently. Currently used by 100+ translators across 10 Indian languages to translate 50+ technical books for government agencies.
 
-# # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# Summary. An optional shortened abstract.
+summary: '**TL;DR:** A production-ready MT post-editing tool used by 100+ translators to translate technical content into Indian languages. Won Best Paper Award at CODS-COMAD 2023. **Impact:** First batch of engineering books translated using UDAAN were released by the President of India.'
 
 tags: ['best paper']
 

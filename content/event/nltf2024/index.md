@@ -1,18 +1,12 @@
 ---
-title: At NASSCOM NLTF 2024, Feb 18-Feb 19
+title: Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models
 
-event: National Leadership and Technology Forum
+event: NASSCOM National Leadership and Technology Forum (NLTF 2024)
 event_url: https://nasscom.in/ntlf/
 
-location: Mumbai
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: Mumbai, India
 
-summary: Presented our work in the NLTF workshop on building Indian language foundation models.
+summary: Presented work on building large-scale foundation models for Indian languages, covering data collection, training architecture, and deployment challenges for multilingual LLMs.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -22,13 +16,13 @@ date_end: '2024-02-19T13:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-20-02T00:00:00Z'
+publishDate: '2024-02-20T00:00:00Z'
 
 authors: []
-tags: []
+tags: [Foundation Models, LLM, Indic Languages, Multilingual NLP, AI, Deep Learning]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -59,7 +53,45 @@ url_video: ''
 projects:
   - example
 ---
-Presented our work in the NLTF workshop on building Indian language foundation models.
+
+**Workshop: Building Indian Language Foundation Models**
+
+Presented at NASSCOM's National Leadership and Technology Forum (NLTF 2024), India's premier platform for technology and business leadership.
+
+## Presentation Overview
+
+Shared insights and technical approaches from building large-scale foundation models specifically designed for Indian languages, addressing the unique challenges of linguistic diversity in India.
+
+## Key Topics Covered:
+
+**1. Data Collection & Processing:**
+- Large-scale multilingual data curation strategies
+- Quality control for diverse Indian language data
+- Handling code-mixing and transliteration challenges
+- Building evaluation datasets for low-resource languages
+
+**2. Model Architecture & Training:**
+- Tokenizer design for morphologically rich Indian languages
+- Training architecture for multilingual models
+- Distributed training on large accelerator clusters
+- Optimization techniques for efficient training
+
+**3. Model Tuning & Deployment:**
+- Instruction tuning approaches
+- Preference training for alignment
+- Deployment considerations for production systems
+- Performance evaluation across language families
+
+**4. Real-world Impact:**
+- Applications in education, government services, and content creation
+- Bridging the digital divide through vernacular AI
+- Democratizing access to AI technology across India
+
+## Context
+
+This work was conducted while leading a team of 5 researchers building Indic large language models from scratch, combining technical innovation with practical deployment considerations for India's multilingual landscape.
+
+The presentation contributed to NASSCOM's vision of positioning India as a global AI powerhouse.
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

@@ -35,3 +35,9 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+{{% callout note %}}
+[**See all publications →**](./publication/)
+
+Complete publication list also available on [Google Scholar](https://scholar.google.com/citations?user=7E4Vjm0AAAAJ).
+{{% /callout %}}

@@ -38,8 +38,8 @@ abstract: Lexicon or dictionary generation across domains has the potential for 
 
 
 
-# # Summary. An optional shortened abstract.
-summary: We propose a new model to generate dictionary words for Indian languages in the multi-domain setting. Our model consists of domain-specific and domain-generic layers that encode information, and these layers are invoked via a learnable routing technique. 
+# Summary. An optional shortened abstract.
+summary: '**TL;DR:** Domain-aware multilingual lexicon generation for 6 Indian languages across 8 domains using routing-based architecture. Released benchmark with 75K+ translation pairs. **Accepted at ACL Main Conference 2025.**' 
 
 tags: []
 

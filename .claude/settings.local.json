@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ayushbits.github.io)",
+      "WebFetch(domain:localhost)",
+      "WebSearch",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:premi25.iitd.ac.in)"
+    ]
+  }
+}

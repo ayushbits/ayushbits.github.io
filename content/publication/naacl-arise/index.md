@@ -37,8 +37,8 @@ abstract: We propose ARISE, a framework that iteratively induces rules and gener
 
 
 
-# # Summary. An optional shortened abstract.
-summary: We propose ARISE, a framework that iteratively induces rules and generates synthetic data for text classification. We combine synthetic data generation and automatic rule induction, via bootstrapping, to iteratively filter the generated rules and data.
+# Summary. An optional shortened abstract.
+summary: '**TL;DR:** ARISE iteratively induces rules and generates synthetic data for text classification via bootstrapping. Outperforms complex methods like contrastive learning across diverse domains and languages. Published at NAACL 2025 Findings.'
 
 tags: []
 

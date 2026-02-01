@@ -1,0 +1,6 @@
+# Development-specific config overrides
+# This helps run the site locally with Hugo 0.97.3
+params:
+  features:
+    # Disable image processing that causes issues locally
+    disable_image_processing: true

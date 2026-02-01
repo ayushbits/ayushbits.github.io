@@ -1,18 +1,12 @@
 ---
-title: At EMNLP 2022, Dec 6-Dec 12
+title: Paper Presentations at EMNLP 2022 - Post-OCR Correction and Data Programming
 
-event: EMNLP
+event: 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
 event_url: https://2022.emnlp.org/
 
-location: Abu Dhabi
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: Abu Dhabi, UAE
 
-summary: I will be presenting our work on post-ocr on Sanskrit and data programming library in EMNLP 2022. See you there!
+summary: Presented two papers at EMNLP 2022 Findings - a benchmark for post-OCR text correction in Sanskrit and a demonstration of SPEAR data programming library.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -25,10 +19,10 @@ all_day: false
 publishDate: '2022-11-12T00:00:00Z'
 
 authors: []
-tags: []
+tags: [OCR, Sanskrit, Data Programming, SPEAR, NLP, Digital Humanities, Weak Supervision]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -59,7 +53,38 @@ url_video: ''
 projects:
   - example
 ---
-I will be presenting our work on post-ocr on Sanskrit and data programming library in EMNLP 2022. See you there!
+
+**Presented Two Papers at EMNLP 2022**
+
+Attended the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP) in Abu Dhabi, where I presented two research papers published in EMNLP 2022 Findings.
+
+## Paper 1: Post-OCR Text Correction in Sanskrit
+
+**Title:** "A Benchmark and Dataset for Post-OCR Text Correction in Sanskrit"
+
+**Key Contributions:**
+- Released multi-domain benchmark with 218K sentences (1.5M words) from 30 different books
+- Covered diverse domains: astronomy, medicine, mathematics (texts up to 18 centuries old)
+- Dataset spans Sanskrit's linguistic and stylistic diversity across 3 millennia
+- Best model (Byt5+SLP1) achieved 23% improvement over OCR output
+- Open-source dataset enabling digitization of 30 million extant Sanskrit manuscripts
+
+**Impact:** Addressing the digital resource gap for Sanskrit, a classical language with massive manuscript collections.
+
+## Paper 2: SPEAR Data Programming Library
+
+**Title:** "SPEAR: Semi-supervised Data Programming in Python" (System Demonstration)
+
+**Key Features:**
+- Open-source Python library for programmatic data labeling
+- Reduces manual annotation effort through weak supervision
+- Implements cutting-edge approaches: Snorkel, ImplyLoss, Learning to Reweight
+- Integrates semi-supervised learning for efficient training
+- **100+ GitHub stars** and wide community adoption
+
+**Impact:** Enabling practitioners to build training datasets efficiently without extensive manual labeling.
+
+Both papers address critical challenges in making NLP more accessible and efficient for low-resource scenarios.
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

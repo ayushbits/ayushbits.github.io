@@ -24,7 +24,7 @@ bio: My research interests include machine learning, NLP and machine translation
 
 # Interests to show in About widget
 interests:
-  - Large Langauge Models
+  - Large Language Models
   - Natural Language Processing
   - Human-in-the-loop AI
   - Neural Machine Translation
@@ -68,6 +68,12 @@ social:
     icon_pack: fab
     link: https://twitter.com/ayushmx
     label: Follow me on Twitter
+  - icon: calendar-check
+    icon_pack: fas
+    link: https://topmate.io/ayush_iitb
+    label: Book 1:1 session on Topmate
+    display:
+      header: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -82,13 +88,18 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
- <span style="color:green">
-Big Update: PhD done (July/24) 😇. Joined NVIDIA 😌
-</span> 
-<br><br>
+**🎉 Update:** PhD completed (July 2024) • Now at NVIDIA.
 
-I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team. 
-Currently working on AI for Science problems in multiple domains including materials discovery, scientific reasoning, geospatial FM, <em>etc.</em> Additionally, working on FM development for languages and scientific domain.
+---
+
+
+I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team.
+
+At NVIDIA, I focus on:
+- **Foundation Models**: Building multilingual and domain-specific foundation models for Indian languages and scientific domains. With additional focus on **AI for Science** such as geospatial foundation models, air pollution models, <em>etc.</em>
+- **Research Collaborations**: Collaborating with academic institutions and research organizations to advance AI applications in science and technology.
+
+My work involves architecting AI solutions, conducting applied research, and enabling the broader research community through technical workshops and collaborations.
 
 Previously, I have completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan</a>. I was fortunate to be funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.<!-- and <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html" target="_blank">Prof. Manjesh Kumar Hanawal</a> -->
 My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. I have worked on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.

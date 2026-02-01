@@ -1,6 +1,6 @@
 ---
 title: UDAAN - An NMT pipeline + Post-editing tool to translate document (Best Paper Award at CODS-COMAD 2023)
-summary: UDAAN has an end-to-end Machine Translation (MT) and post-editing pipeline. Using our tool, users can upload a document, obtain raw MT output, and edit the raw translations. We have digitized >100 dictionaries from CSTT. You can freely download these dictionaries from the project website. Our pipeline is being used by >100 translators across 10 languages to translate >50 books. 
+summary: An end-to-end Machine Translation and post-editing platform that has translated >50 books across 10 Indian languages. **100+ professional translators** actively use UDAAN to upload documents, obtain MT output, and edit translations. Received **Presidential recognition** and **Best Paper Award at CODS-COMAD 2023**. Includes >100 digitized dictionaries freely available from CSTT. 
 
 tags:
 - nmt
@@ -30,11 +30,4 @@ url_pdf: 'https://arxiv.org/pdf/2203.01644.pdf'
 url_slides: ''
 url_video: ''
 url_project: 'https://udaanproject.org'
-
-# Optional external URL for project (replaces project detail page).
-# external_link: https://example.org
-
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
 ---

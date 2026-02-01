@@ -1,18 +1,12 @@
 ---
-title: Invited half-day tutorial at EDM, 14 July 2023
+title: Invited Tutorial at EDM 2023 - Data Efficient Machine Learning for Educational Content Creation
 
-event: Educational Data Mining Conference
+event: 16th International Conference on Educational Data Mining (EDM 2023)
 event_url: https://educationaldatamining.org/edm2023/tutorials/
 
-location: Bengaluru, India
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: IISc Bangalore, India
 
-summary: Along with Prof. Ganesh Ramakishnan, I delivered a half-day invited tutorial on our machine translation work 😇 on the topic "Data Efficient Machine Learning for Educational Content Creation" held at IISC Bangalore.
+summary: Half-day invited tutorial on data-efficient machine learning for educational content creation, featuring the UDAAN translation ecosystem that has translated 100+ technical books across 11+ Indian languages.
 
 abstract: 'Machine Learning has found several use cases in education applications. Specifically, Neural machine translation (NMT) systems (e.g., in educational applications) are socially significant with the potential to help make information accessible to a diverse set of users in multilingual societies. NMT systems have helped translating audio, video and textual content in vernacular languages aiding both students and teachers. However, translation of higher education/technical textbooks/courses necessitate MT systems to adhere to the lexicon of source and target domain.
 
@@ -28,7 +22,7 @@ date_end: '2023-07-14T12:30:00Z'
 publishDate: '2023-04-25T00:00:00Z'
 
 authors: []
-tags: []
+tags: [Machine Translation, Educational Data Mining, NMT, UDAAN, Data Efficiency, Multilingual NLP]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -62,7 +56,34 @@ url_video: ''
 projects:
   - example
 ---
-Along with Prof. Ganesh Ramakrishnan, I delivered a half-day tutorial on our translation ecosystem at Education Data mining conference 2023 in IISC Bengaluru on the topic "Data Efficient Machine Learning for Educational Content Creation". Slides coming soon ! 
+
+**Invited Tutorial: Data Efficient Machine Learning for Educational Content Creation**
+
+Co-presented with Prof. Ganesh Ramakrishnan at the 16th International Conference on Educational Data Mining (EDM 2023), IISc Bangalore.
+
+## Tutorial Overview
+
+This half-day tutorial showcased practical applications of machine learning in education, specifically focusing on neural machine translation (NMT) for making educational content accessible across multilingual societies.
+
+## Key Topics Covered:
+
+- **Data-efficient NMT techniques** for low-resource educational content
+- **Domain-specific translation challenges** in technical/higher education textbooks
+- **UDAAN translation ecosystem** - our production system that has:
+  - Translated 100+ diploma and engineering books
+  - Supported 11+ Indian languages
+  - Empowered 100+ professional translators
+  - Received Presidential recognition
+
+- **Lexicon adherence** and terminology consistency in technical translation
+- **Post-editing workflows** and human-in-the-loop systems
+- **Real-world deployment insights** from large-scale educational content translation
+
+## Impact
+
+The UDAAN project demonstrates how ML can bridge language barriers in education, enabling access to technical knowledge for millions of students across India. This work received the **Best Paper Award at CODS-COMAD 2023**.
+
+Tutorial materials and insights from translating hundreds of technical books across diverse Indian languages. 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

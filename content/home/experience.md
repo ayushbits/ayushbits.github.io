@@ -29,7 +29,14 @@ experience:
     location: Gurugram
     date_start: '2024-10-14'
     description: |2-
-      Part of the NVAITC India for research engagements and collaborations.
+      Part of NVIDIA AI Technology Center (NVAITC) India, driving research engagements and strategic collaborations.
+
+      Responsibilities include:
+      * Leading enterprise AI solution architecture and deployment strategies
+      * Collaborating with academic and research institutions on cutting-edge AI projects
+      * Providing technical expertise on NVIDIA GPU acceleration, large language models, and AI infrastructure
+      * Architecting scalable AI solutions for diverse industry verticals
+      * Mentoring teams on best practices for AI/ML model development and deployment
 
 
   - title: Research Scientist
@@ -43,7 +50,7 @@ experience:
       1. Led a team of 5 people to build Indic-large language models from scratch.
       2. Developing data collection & processing pipelines for training and evaluation.
       3. Training of tokenizer and designing model training architecture.
-      4. Training the model on large accelerator cluster.
+      4. Training the model on large Intel Gaudi-2 cluster.
       5. Instruction tuning and preference training of the pre-trained models.
 
   - title: Research Intern

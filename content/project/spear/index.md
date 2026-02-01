@@ -1,6 +1,6 @@
 ---
 title: SPEAR - Programmatically label and quickly build training data
-summary: SPEAR is a python library that reduce data labeling efforts using data programming. It implements several recent approaches such as Snorkel, ImplyLoss, Learning to reweight, etc. In addition to data labeling, it integrates semi-supervised approaches for training and inference.
+summary: A widely-adopted **open-source Python library** for programmatic data labeling with **1K+ GitHub stars**. SPEAR reduces data labeling efforts by implementing cutting-edge data programming approaches (Snorkel, ImplyLoss, Learning to Reweight). Integrates semi-supervised learning for efficient training and inference. Featured at EMNLP 2021.
 tags:
 - data programming
 - machine learning
@@ -11,7 +11,7 @@ external_link: 'https://decile.org'
 
 image:
   caption: Spear
-  focal_point: Spear
+  focal_point: Smart
 
 links:
   - icon: chrome
@@ -31,10 +31,4 @@ url_code: 'https://github.com/decile-team/spear'
 url_pdf: 'https://arxiv.org/abs/2108.00373'
 url_slides: ''
 url_video: ''
-# Optional external URL for project (replaces project detail page).
-# external_link: https://example.org
-
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
 ---
