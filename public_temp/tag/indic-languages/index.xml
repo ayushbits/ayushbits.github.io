@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Indic Languages | Ayush Maheshwari</title><link>/tag/indic-languages/</link><atom:link href="/tag/indic-languages/index.xml" rel="self" type="application/rss+xml"/><description>Indic Languages</description><generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Indic Languages</title><link>/tag/indic-languages/</link></image><item><title>Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models</title><link>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid><description>&lt;p>&lt;strong>Workshop: Building Indian Language Foundation Models&lt;/strong>&lt;/p>
+&lt;p>Presented at NASSCOM&amp;rsquo;s National Leadership and Technology Forum (NLTF 2024), India&amp;rsquo;s premier platform for technology and business leadership.&lt;/p>
+&lt;h2 id="presentation-overview">Presentation Overview&lt;/h2>
+&lt;p>Shared insights and technical approaches from building large-scale foundation models specifically designed for Indian languages, addressing the unique challenges of linguistic diversity in India.&lt;/p>
+&lt;h2 id="key-topics-covered">Key Topics Covered:&lt;/h2>
+&lt;p>&lt;strong>1. Data Collection &amp;amp; Processing:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Large-scale multilingual data curation strategies&lt;/li>
+&lt;li>Quality control for diverse Indian language data&lt;/li>
+&lt;li>Handling code-mixing and transliteration challenges&lt;/li>
+&lt;li>Building evaluation datasets for low-resource languages&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. Model Architecture &amp;amp; Training:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Tokenizer design for morphologically rich Indian languages&lt;/li>
+&lt;li>Training architecture for multilingual models&lt;/li>
+&lt;li>Distributed training on large accelerator clusters&lt;/li>
+&lt;li>Optimization techniques for efficient training&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. Model Tuning &amp;amp; Deployment:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Instruction tuning approaches&lt;/li>
+&lt;li>Preference training for alignment&lt;/li>
+&lt;li>Deployment considerations for production systems&lt;/li>
+&lt;li>Performance evaluation across language families&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>4. Real-world Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Applications in education, government services, and content creation&lt;/li>
+&lt;li>Bridging the digital divide through vernacular AI&lt;/li>
+&lt;li>Democratizing access to AI technology across India&lt;/li>
+&lt;/ul>
+&lt;h2 id="context">Context&lt;/h2>
+&lt;p>This work was conducted while leading a team of 5 researchers building Indic large language models from scratch, combining technical innovation with practical deployment considerations for India&amp;rsquo;s multilingual landscape.&lt;/p>
+&lt;p>The presentation contributed to NASSCOM&amp;rsquo;s vision of positioning India as a global AI powerhouse.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>
