@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transformers | Ayush Maheshwari</title><link>/tag/transformers/</link><atom:link href="/tag/transformers/index.xml" rel="self" type="application/rss+xml"/><description>Transformers</description><generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Thu, 11 Dec 2025 09:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Transformers</title><link>/tag/transformers/</link></image><item><title>Tutorial at PReMI 2025 - Beyond Transformers - Deep Dive into Mamba and SSMs</title><link>/talk/tutorial-at-premi-2025-beyond-transformers-deep-dive-into-mamba-and-ssms/</link><pubDate>Thu, 11 Dec 2025 09:00:00 +0000</pubDate><guid>/talk/tutorial-at-premi-2025-beyond-transformers-deep-dive-into-mamba-and-ssms/</guid><description>&lt;p>&lt;strong>Tutorial: Beyond Transformers - Deep Dive into Mamba and State Space Models&lt;/strong>&lt;/p>
+&lt;p>Presented at the 11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025), IIT Delhi.&lt;/p>
+&lt;p>This tutorial session explored:&lt;/p>
+&lt;ul>
+&lt;li>State Space Models (SSMs) fundamentals and evolution&lt;/li>
+&lt;li>Mamba architecture - a linear-time sequence modeling alternative to transformers&lt;/li>
+&lt;li>Selective state spaces and their advantages&lt;/li>
+&lt;li>Comparison of SSMs vs Transformers for various sequence modeling tasks&lt;/li>
+&lt;li>Nemotron Nanov3&lt;/li>
+&lt;/ul>
+&lt;p>PReMI 2025 brought together researchers and practitioners in pattern recognition, machine intelligence, and related fields from across the globe.&lt;/p>
+&lt;p>&lt;strong>Conference Date:&lt;/strong> December 11-14, 2025
+&lt;strong>Tutorial Date:&lt;/strong> December 11, 2025 (Pre-conference Tutorial Day)&lt;/p></description></item></channel></rss>
