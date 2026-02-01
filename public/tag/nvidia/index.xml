@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NVIDIA | Ayush Maheshwari</title><link>/tag/nvidia/</link><atom:link href="/tag/nvidia/index.xml" rel="self" type="application/rss+xml"/><description>NVIDIA</description><generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sat, 15 Mar 2025 09:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>NVIDIA</title><link>/tag/nvidia/</link></image><item><title>CASML 2025 - LLM Development Workshop at IISc Bangalore</title><link>/talk/casml-2025-llm-development-workshop-at-iisc-bangalore/</link><pubDate>Sat, 15 Mar 2025 09:00:00 +0000</pubDate><guid>/talk/casml-2025-llm-development-workshop-at-iisc-bangalore/</guid><description>&lt;p>&lt;strong>IndiaAI Official Pre-Summit Event for AI Impact Summit 2026&lt;/strong>&lt;/p>
+&lt;p>Day 2 hands-on technical workshop in collaboration with NVIDIA, covering:&lt;/p>
+&lt;ul>
+&lt;li>End-to-end LLM development workflows&lt;/li>
+&lt;li>Optimizing and deploying models on NVIDIA GPUs&lt;/li>
+&lt;li>GPU-based training and efficient model serving&lt;/li>
+&lt;li>Architecture insights &amp;amp; mixed-precision training techniques&lt;/li>
+&lt;/ul>
+&lt;p>Co-presented with Dr. Manish Modani and team from NVIDIA NVAITC.&lt;/p>
+&lt;p>Built for AI developers, researchers, and engineers eager to scale their models with cutting-edge compute infrastructure.&lt;/p></description></item><item><title>C-DAC &amp; NVIDIA Foundational Models Lecture Series</title><link>/talk/c-dac-nvidia-foundational-models-lecture-series/</link><pubDate>Sun, 15 Dec 2024 10:00:00 +0000</pubDate><guid>/talk/c-dac-nvidia-foundational-models-lecture-series/</guid><description>&lt;p>&lt;strong>Lecture Series on Foundational Models Development - Collaboration with C-DAC&lt;/strong>&lt;/p>
+&lt;p>Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle, powered by the PARAM Siddhi-AI supercomputer.&lt;/p>
+&lt;p>&lt;strong>My Session:&lt;/strong> Deploying Foundational Models: Challenges and Best Practices&lt;/p>
+&lt;p>&lt;strong>Series Topics:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Cluster Health Check using NCCL and MLPerf Benchmarks&lt;/li>
+&lt;li>Large-scale data curation&lt;/li>
+&lt;li>Distributed and stable training&lt;/li>
+&lt;li>Deploying Foundational Models: Challenges and Best Practices &lt;em>(My session)&lt;/em>&lt;/li>
+&lt;li>Post-training and Evaluation&lt;/li>
+&lt;/ol>
+&lt;p>This series brings cutting-edge foundational model development to practitioners across India, covering applications from summarization and conversational AI in diverse languages to breakthroughs in science, finance, and beyond.&lt;/p>
+&lt;p>Organized in collaboration with Centre for Development of Advanced Computing (C-DAC) and NVIDIA NVAITC team.&lt;/p>
+&lt;p>For registration and session recordings: &lt;a href="mailto:npsfhelp@cdac.in">npsfhelp@cdac.in&lt;/a>&lt;/p></description></item></channel></rss>

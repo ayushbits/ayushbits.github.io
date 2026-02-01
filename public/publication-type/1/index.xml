@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1 | Ayush Maheshwari</title><link>/publication-type/1/</link><atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml"/><description>1</description><generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>1</title><link>/publication-type/1/</link></image><item><title>IndicParam: Benchmark to evaluate LLMs on low-resource Indic Languages</title><link>/publication/indicparam/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>/publication/indicparam/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects</title><link>/publication/parambench/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>/publication/parambench/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>LexGen: Domain-aware Multilingual Lexicon Generation</title><link>/publication/lexgen-acl/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>/publication/lexgen-acl/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification</title><link>/publication/naacl-arise/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>/publication/naacl-arise/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>DictDis: Dictionary Constrained Disambiguation for Improved NMT</title><link>/publication/emnlp-dictdis/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>/publication/emnlp-dictdis/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>FAIR: Filtering of Automatically Induced Rules</title><link>/publication/fair_lfs_induction/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/publication/fair_lfs_induction/</guid><description>&lt;p>The availability of large annotated data can be a critical bottleneck in training machine learning algorithms successfully, especially when applied to diverse domains. Weak supervision offers a promising alternative by accelerating the creation of labeled training data using domainspecific rules. However, it requires users to write a diverse set of high-quality rules to assign labels to the unlabeled data. Automatic Rule Induction (ARI) approaches circumvent this problem by automatically creating rules from features on a small labeled set and filtering a final set of rules from them. In the ARI approach, the crucial step is to filter out a set of a high-quality useful subset of rules from the large set of automatically created rules. In this paper, we propose an algorithm FAIR (Filtering of Automatically Induced Rules) to filter rules from a large number of automatically induced rules using submodular objective functions that account for the collective precision, coverage, and conflicts of the rule set. We experiment with three ARI approaches and five text classification datasets to validate the superior performance of our algorithm with respect to several semi-supervised label aggregation approaches. Further, we show that FAIR achieves statistically significant results in comparison to existing rule-filtering approaches. The source code is available at &lt;a href="https://github.com/ayushbits/FAIR-LF-Induction" target="_blank" rel="noopener">https://github.com/ayushbits/FAIR-LF-Induction&lt;/a>.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Sāmayik: A Benchmark and Dataset for English-Sanskrit Translation</title><link>/publication/saamayik/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>/publication/saamayik/</guid><description>&lt;p>We release Sāmayik, a dataset of around 53,000 parallel English-Sanskrit sentences, written in contemporary prose. Sanskrit is a classical language still in sustenance and has a rich documented heritage. However, due to the limited availability of digitized content, it still remains a low-resource language. Existing Sanskrit corpora, whether monolingual or bilingual, have predominantly focused on poetry and offer limited coverage of contemporary written materials. Sāmayik is curated from a diverse range of domains, including language instruction material, textual teaching pedagogy, and online tutorials, among others. It stands out as a unique resource that specifically caters to the contemporary usage of Sanskrit, with a primary emphasis on prose writing. Translation models trained on our dataset demonstrate statistically significant improvements when translating out-of-domain contemporary corpora, outperforming models trained on older classical-era poetry datasets. Finally, we also release benchmark models by adapting four multilingual pre-trained models, three of them have not been previously exposed to Sanskrit for translating between English and Sanskrit while one of them is multi-lingual pre-trained translation model including English and Sanskrit. The dataset and source code is present at &lt;a href="https://github.com/ayushbits/saamayik" target="_blank" rel="noopener">https://github.com/ayushbits/saamayik&lt;/a>.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>EIGEN: Expert-Informed Joint Learning Aggregation for High-Fidelity Information Extraction from Document Images</title><link>/publication/eigen-ml4health/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>/publication/eigen-ml4health/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>UDAAN - Machine Learning based Post-Editing tool for Document Translation</title><link>/publication/udaan-cods/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>/publication/udaan-cods/</guid><description/></item><item><title>SPEAR: Semi-supervised Data Programming in Python</title><link>/publication/spear-demo-emnlp/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>/publication/spear-demo-emnlp/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Reweighing auxiliary losses in supervised learning</title><link>/publication/reweighing-loss-aaai23/</link><pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate><guid>/publication/reweighing-loss-aaai23/</guid><description>&lt;p>Apart from the standard supervised learning using hard labels, often auxiliary losses are used in many supervised learning settings to improve the model&amp;rsquo;s generalisation. For example, knowledge distillation adds a second, teacher mimicking loss to the training of a model, where the teacher may be a pretrained model that outputs a richer distribution over labels. Similarly, in settings with limited labelled data, weak labelling information is used in form of labelling functions. Auxiliary losses are introduced here to combat labelling functions that may be noisy rule-based approximations of true labels. We tackle the problem of learning to combine these losses in a principled manner. We introduce AMAL which learns instance-specific weights using meta learning on a validation metric to achieve optimal mixing of losses. Experiments in a number of knowledge distillation and rule denoising domains show that AMAL provides noticeable gains over competitive baselines in those domains. We empirically analyze our method and share insights into the mechanisms through which it provides performance gains.&lt;/p></description></item><item><title>A Benchmark and Dataset for Post-OCR text correction in Sanskrit</title><link>/publication/ocr-sanskrit-emnlp/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>/publication/ocr-sanskrit-emnlp/</guid><description>&lt;p>Sanskrit is a classical language with about 30 million extant manuscripts fit for digitisation, available in written, printed or scanned-image forms. However, it is still considered to be a low-resource language when it comes to available digital resources. In this work, we release a post-OCR text correction dataset containing around 218,000 sentences, with 1.5 million words, from 30 different books. Texts in Sanskrit are known to be diverse in terms of their linguistic and stylistic usage since Sanskrit was the `lingua francua&amp;rsquo; for discourse in the Indian subcontinent for about 3 millennia. Keeping this in mind, we release a multi-domain dataset, from areas as diverse as astronomy, medicine and mathematics, with some of them as old as 18 centuries. Further, we release multiple strong baselines as benchmarks for the task, based on pre-trained Seq2Seq language models. We find that our best-performing model, consisting of
+byte level tokenization in conjunction with phonetic encoding (Byt5+SLP1), yields a 23% point increase over the OCR output in terms of word and character error rates. Moreover, we perform extensive experiments in evaluating these models on their performance and analyse common causes of mispredictions both at the graphemic and lexical levels. Our code and dataset is publicly available at &lt;a href="https://github.com/ayushbits/pe-ocr-sanskrit" target="_blank" rel="noopener">https://github.com/ayushbits/pe-ocr-sanskrit&lt;/a>.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming</title><link>/publication/aggregate-lf-acl/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>/publication/aggregate-lf-acl/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Rule Augmented Unsupervised Constituency Parsing</title><link>/publication/rules-short-acl/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/publication/rules-short-acl/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Semi-Supervised Data Programming with Subset Selection,</title><link>/publication/semi-dp-acl/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/publication/semi-dp-acl/</guid><description>&lt;p>The paradigm of data programming, which uses weak supervision in the form of rules/labelling functions, and semi-supervised learning, which augments small amounts of labelled data with a large unlabelled dataset, have shown great promise in several text classification scenarios. In this work, we argue that by not using any labelled data, data programming based approaches can yield sub-optimal performances, particularly when the labelling functions are noisy. The first contribution of this work is an introduction of a framework, SPEAR which is a semi-supervised data programming paradigm that learns a joint model that effectively uses the rules/labelling func- tions along with semi-supervised loss functions on the feature space. Next, we also study SPEAR-SS which additionally does subset selection on top of the joint semi-supervised data programming objective and selects a set of examples that can be used as the labelled set by SPEAR . The goal of SPEAR-SS is to ensure that the labelled data can complement the labelling functions, thereby benefiting from both data-programming as well as appropriately selected data for human labelling. We demonstrate that by effectively combining semi-supervision, data-programming, and sub- set selection paradigms, we significantly out-perform the current state-of-the-art on seven publicly available datasets.
+The source code is available &lt;a href="https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection" target="_blank" rel="noopener">https://github.com/ayushbits/Semi-Supervised-LFs-Subset-Selection&lt;/a>.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Joint Learning of Hyperbolic Label Embeddings for Hierarchical Multi-label Classification</title><link>/publication/joint_learning_hyperbolic/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>/publication/joint_learning_hyperbolic/</guid><description>&lt;p>We consider the problem of multi-label classification, where the labels lie in a hierarchy. However, unlike most existing works in hierarchical multi-label classification, we do not assume that the label-hierarchy is known. Encouraged by the recent success of hyperbolic embeddings in capturing hierarchical relations, we propose to jointly learn the classifier parameters as well as the label embeddings. Such a joint learning is expected to provide a two-fold advantage: i) the classifier generalises better as it leverages the prior knowledge of existence of a hierarchy over the labels, and ii) in addition to the label co-occurrence information, the label-embedding may benefit from the manifold structure of the input datapoints, leading to embeddings that are more faithful to the label hierarchy. We propose a novel formulation for the joint learning and empirically evaluate its efficacy. The results show that the joint learning improves over the baseline that employs label co-occurrence based pre-trained hyperbolic embeddings. Moreover, the proposed classifiers achieve state-of-the-art generalization on standard benchmarks. We also present evaluation of the hyperbolic embeddings obtained by joint learning and show that they represent the hierarchy more accurately than the other alternatives. The source code of the paper is available at &lt;a href="https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc" target="_blank" rel="noopener">https://github.com/soumyac1999/hyperbolic-label-emb-for-hmc&lt;/a>&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></description></item><item><title>Unsupervised Learning of Explainable Parse Trees for Improved Generalisation</title><link>/publication/parsetree-ijcnn/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>/publication/parsetree-ijcnn/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Tale of tails using rule augmented sequence labeling for event extraction</title><link>/publication/tail-starai/</link><pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate><guid>/publication/tail-starai/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>OCR On-the-Go: Robust End-to-end Systems for Reading License Plates and Street Signs</title><link>/publication/ocr-icdar/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>/publication/ocr-icdar/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>DynGAN: Generative Adversarial Networks for Dynamic Network Embedding</title><link>/publication/dyngan/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>/publication/dyngan/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Representation Learning on Graphs by Integrating Content and Structure Information</title><link>/publication/rep_learning/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>/publication/rep_learning/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Entity Resolution and Location Disambiguation in the Ancient Hindu Temples Domain using Web Data</title><link>/publication/temples-demo/</link><pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate><guid>/publication/temples-demo/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Peak Electricity Demand and Global Warming in the Industrial and Residential areas of Pune : An Extreme Value Approach</title><link>/publication/elec-pune/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>/publication/elec-pune/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
