@@ -1,5 +1,5 @@
 # Hugo build output
-public/
+# public/  # Commented out so we can track changes
 
 # Executables
 *.exe
