@@ -10,6 +10,15 @@ if ($currentBranch -ne "source") {
     exit 1
 }
 
+# Check for uncommitted changes and commit them first
+$status = git status --porcelain
+if ($status) {
+    Write-Host "💾 Committing source changes first..." -ForegroundColor Cyan
+    git add .
+    git commit -m "Update source before deployment"
+    Write-Host "✅ Source changes committed" -ForegroundColor Green
+}
+
 # Build the site
 Write-Host "📦 Building site..." -ForegroundColor Cyan
 .\.hugo\hugo.exe --gc --minify
