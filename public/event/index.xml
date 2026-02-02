@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Ayush Maheshwari</title><link>/event/</link><atom:link href="/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Thu, 11 Dec 2025 09:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>/event/</link></image><item><title>Tutorial at PReMI 2025 - Beyond Transformers - Deep Dive into Mamba and SSMs</title><link>/talk/tutorial-at-premi-2025-beyond-transformers-deep-dive-into-mamba-and-ssms/</link><pubDate>Thu, 11 Dec 2025 09:00:00 +0000</pubDate><guid>/talk/tutorial-at-premi-2025-beyond-transformers-deep-dive-into-mamba-and-ssms/</guid><description>&lt;p>&lt;strong>Tutorial: Beyond Transformers - Deep Dive into Mamba and State Space Models&lt;/strong>&lt;/p>
+&lt;p>Presented at the 11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025), IIT Delhi.&lt;/p>
+&lt;p>This tutorial session explored:&lt;/p>
+&lt;ul>
+&lt;li>State Space Models (SSMs) fundamentals and evolution&lt;/li>
+&lt;li>Mamba architecture - a linear-time sequence modeling alternative to transformers&lt;/li>
+&lt;li>Selective state spaces and their advantages&lt;/li>
+&lt;li>Comparison of SSMs vs Transformers for various sequence modeling tasks&lt;/li>
+&lt;li>Nemotron Nanov3&lt;/li>
+&lt;/ul>
+&lt;p>PReMI 2025 brought together researchers and practitioners in pattern recognition, machine intelligence, and related fields from across the globe.&lt;/p>
+&lt;p>&lt;strong>Conference Date:&lt;/strong> December 11-14, 2025
+&lt;strong>Tutorial Date:&lt;/strong> December 11, 2025 (Pre-conference Tutorial Day)&lt;/p></description></item><item><title>CASML 2025 - LLM Development Workshop at IISc Bangalore</title><link>/talk/casml-2025-llm-development-workshop-at-iisc-bangalore/</link><pubDate>Sat, 15 Mar 2025 09:00:00 +0000</pubDate><guid>/talk/casml-2025-llm-development-workshop-at-iisc-bangalore/</guid><description>&lt;p>&lt;strong>IndiaAI Official Pre-Summit Event for AI Impact Summit 2026&lt;/strong>&lt;/p>
+&lt;p>Day 2 hands-on technical workshop in collaboration with NVIDIA, covering:&lt;/p>
+&lt;ul>
+&lt;li>End-to-end LLM development workflows&lt;/li>
+&lt;li>Optimizing and deploying models on NVIDIA GPUs&lt;/li>
+&lt;li>GPU-based training and efficient model serving&lt;/li>
+&lt;li>Architecture insights &amp;amp; mixed-precision training techniques&lt;/li>
+&lt;/ul>
+&lt;p>Co-presented with Dr. Manish Modani and team from NVIDIA NVAITC.&lt;/p>
+&lt;p>Built for AI developers, researchers, and engineers eager to scale their models with cutting-edge compute infrastructure.&lt;/p></description></item><item><title>C-DAC &amp; NVIDIA Foundational Models Lecture Series</title><link>/talk/c-dac-nvidia-foundational-models-lecture-series/</link><pubDate>Sun, 15 Dec 2024 10:00:00 +0000</pubDate><guid>/talk/c-dac-nvidia-foundational-models-lecture-series/</guid><description>&lt;p>&lt;strong>Lecture Series on Foundational Models Development - Collaboration with C-DAC&lt;/strong>&lt;/p>
+&lt;p>Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle. Attended by 1000+ participants across research labs, academia and industry.
+List of sessions delivered by me.&lt;/p>
+&lt;p>&lt;strong>Series Topics:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Cluster Health Check using NCCL and MLPerf Benchmarks&lt;/li>
+&lt;li>Large-scale data curation&lt;/li>
+&lt;li>Distributed and stable training&lt;/li>
+&lt;li>Deploying Foundational Models: Challenges and Best Practices&lt;/li>
+&lt;li>Post-training and Evaluation&lt;/li>
+&lt;/ol>
+&lt;p>This series brings cutting-edge foundational model development to practitioners and researchers across India.&lt;/p></description></item><item><title>Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models</title><link>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid><description>&lt;p>&lt;strong>Workshop: Building Indian Language Foundation Models&lt;/strong>&lt;/p>
+&lt;p>Presented at NASSCOM&amp;rsquo;s National Leadership and Technology Forum (NLTF 2024), India&amp;rsquo;s premier platform for technology and business leadership.&lt;/p>
+&lt;h2 id="presentation-overview">Presentation Overview&lt;/h2>
+&lt;p>Shared insights and technical approaches from building large-scale foundation models specifically designed for Indian languages, addressing the unique challenges of linguistic diversity in India.&lt;/p>
+&lt;h2 id="key-topics-covered">Key Topics Covered:&lt;/h2>
+&lt;p>&lt;strong>1. Data Collection &amp;amp; Processing:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Large-scale multilingual data curation strategies&lt;/li>
+&lt;li>Quality control for diverse Indian language data&lt;/li>
+&lt;li>Handling code-mixing and transliteration challenges&lt;/li>
+&lt;li>Building evaluation datasets for low-resource languages&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2. Model Architecture &amp;amp; Training:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Tokenizer design for morphologically rich Indian languages&lt;/li>
+&lt;li>Training architecture for multilingual models&lt;/li>
+&lt;li>Distributed training on large accelerator clusters&lt;/li>
+&lt;li>Optimization techniques for efficient training&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>3. Model Tuning &amp;amp; Deployment:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Instruction tuning approaches&lt;/li>
+&lt;li>Preference training for alignment&lt;/li>
+&lt;li>Deployment considerations for production systems&lt;/li>
+&lt;li>Performance evaluation across language families&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>4. Real-world Impact:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Applications in education, government services, and content creation&lt;/li>
+&lt;li>Bridging the digital divide through vernacular AI&lt;/li>
+&lt;li>Democratizing access to AI technology across India&lt;/li>
+&lt;/ul>
+&lt;h2 id="context">Context&lt;/h2>
+&lt;p>This work was conducted while leading a team of 5 researchers building Indic large language models from scratch, combining technical innovation with practical deployment considerations for India&amp;rsquo;s multilingual landscape.&lt;/p>
+&lt;p>The presentation contributed to NASSCOM&amp;rsquo;s vision of positioning India as a global AI powerhouse.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Invited Tutorial at EDM 2023 - Data Efficient Machine Learning for Educational Content Creation</title><link>/talk/invited-tutorial-at-edm-2023-data-efficient-machine-learning-for-educational-content-creation/</link><pubDate>Fri, 14 Jul 2023 09:00:00 +0000</pubDate><guid>/talk/invited-tutorial-at-edm-2023-data-efficient-machine-learning-for-educational-content-creation/</guid><description>&lt;p>&lt;strong>Invited Tutorial: Data Efficient Machine Learning for Educational Content Creation&lt;/strong>&lt;/p>
+&lt;p>Co-presented with Prof. Ganesh Ramakrishnan at the 16th International Conference on Educational Data Mining (EDM 2023), IISc Bangalore.&lt;/p>
+&lt;h2 id="tutorial-overview">Tutorial Overview&lt;/h2>
+&lt;p>This half-day tutorial showcased practical applications of machine learning in education, specifically focusing on neural machine translation (NMT) for making educational content accessible across multilingual societies.&lt;/p>
+&lt;h2 id="key-topics-covered">Key Topics Covered:&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Data-efficient NMT techniques&lt;/strong> for low-resource educational content&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Domain-specific translation challenges&lt;/strong> in technical/higher education textbooks&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>UDAAN translation ecosystem&lt;/strong> - our production system that has:&lt;/p>
+&lt;ul>
+&lt;li>Translated 100+ diploma and engineering books&lt;/li>
+&lt;li>Supported 11+ Indian languages&lt;/li>
+&lt;li>Empowered 100+ professional translators&lt;/li>
+&lt;li>Received Presidential recognition&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Lexicon adherence&lt;/strong> and terminology consistency in technical translation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Post-editing workflows&lt;/strong> and human-in-the-loop systems&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Real-world deployment insights&lt;/strong> from large-scale educational content translation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>The UDAAN project demonstrates how ML can bridge language barriers in education, enabling access to technical knowledge for millions of students across India. This work received the &lt;strong>Best Paper Award at CODS-COMAD 2023&lt;/strong>.&lt;/p>
+&lt;p>Tutorial materials and insights from translating hundreds of technical books across diverse Indian languages.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Paper Presentations at EMNLP 2022 - Post-OCR Correction and Data Programming</title><link>/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</link><pubDate>Tue, 06 Dec 2022 13:00:00 +0000</pubDate><guid>/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</guid><description>&lt;p>&lt;strong>Presented Two Papers at EMNLP 2022&lt;/strong>&lt;/p>
+&lt;p>Attended the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP) in Abu Dhabi, where I presented two research papers published in EMNLP 2022 Findings.&lt;/p>
+&lt;h2 id="paper-1-post-ocr-text-correction-in-sanskrit">Paper 1: Post-OCR Text Correction in Sanskrit&lt;/h2>
+&lt;p>&lt;strong>Title:&lt;/strong> &amp;ldquo;A Benchmark and Dataset for Post-OCR Text Correction in Sanskrit&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>Key Contributions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Released multi-domain benchmark with 218K sentences (1.5M words) from 30 different books&lt;/li>
+&lt;li>Covered diverse domains: astronomy, medicine, mathematics (texts up to 18 centuries old)&lt;/li>
+&lt;li>Dataset spans Sanskrit&amp;rsquo;s linguistic and stylistic diversity across 3 millennia&lt;/li>
+&lt;li>Best model (Byt5+SLP1) achieved 23% improvement over OCR output&lt;/li>
+&lt;li>Open-source dataset enabling digitization of 30 million extant Sanskrit manuscripts&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong> Addressing the digital resource gap for Sanskrit, a classical language with massive manuscript collections.&lt;/p>
+&lt;h2 id="paper-2-spear-data-programming-library">Paper 2: SPEAR Data Programming Library&lt;/h2>
+&lt;p>&lt;strong>Title:&lt;/strong> &amp;ldquo;SPEAR: Semi-supervised Data Programming in Python&amp;rdquo; (System Demonstration)&lt;/p>
+&lt;p>&lt;strong>Key Features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Open-source Python library for programmatic data labeling&lt;/li>
+&lt;li>Reduces manual annotation effort through weak supervision&lt;/li>
+&lt;li>Implements cutting-edge approaches: Snorkel, ImplyLoss, Learning to Reweight&lt;/li>
+&lt;li>Integrates semi-supervised learning for efficient training&lt;/li>
+&lt;li>&lt;strong>100+ GitHub stars&lt;/strong> and wide community adoption&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Impact:&lt;/strong> Enabling practitioners to build training datasets efficiently without extensive manual labeling.&lt;/p>
+&lt;p>Both papers address critical challenges in making NLP more accessible and efficient for low-resource scenarios.&lt;/p>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>
