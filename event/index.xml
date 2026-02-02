@@ -20,19 +20,17 @@
 &lt;/ul>
 &lt;p>Co-presented with Dr. Manish Modani and team from NVIDIA NVAITC.&lt;/p>
 &lt;p>Built for AI developers, researchers, and engineers eager to scale their models with cutting-edge compute infrastructure.&lt;/p></description></item><item><title>C-DAC &amp; NVIDIA Foundational Models Lecture Series</title><link>/talk/c-dac-nvidia-foundational-models-lecture-series/</link><pubDate>Sun, 15 Dec 2024 10:00:00 +0000</pubDate><guid>/talk/c-dac-nvidia-foundational-models-lecture-series/</guid><description>&lt;p>&lt;strong>Lecture Series on Foundational Models Development - Collaboration with C-DAC&lt;/strong>&lt;/p>
-&lt;p>Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle, powered by the PARAM Siddhi-AI supercomputer.&lt;/p>
-&lt;p>&lt;strong>My Session:&lt;/strong> Deploying Foundational Models: Challenges and Best Practices&lt;/p>
+&lt;p>Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle. Attended by 1000+ participants across research labs, academia and industry.
+List of sessions delivered by me.&lt;/p>
 &lt;p>&lt;strong>Series Topics:&lt;/strong>&lt;/p>
 &lt;ol>
 &lt;li>Cluster Health Check using NCCL and MLPerf Benchmarks&lt;/li>
 &lt;li>Large-scale data curation&lt;/li>
 &lt;li>Distributed and stable training&lt;/li>
-&lt;li>Deploying Foundational Models: Challenges and Best Practices &lt;em>(My session)&lt;/em>&lt;/li>
+&lt;li>Deploying Foundational Models: Challenges and Best Practices&lt;/li>
 &lt;li>Post-training and Evaluation&lt;/li>
 &lt;/ol>
-&lt;p>This series brings cutting-edge foundational model development to practitioners across India, covering applications from summarization and conversational AI in diverse languages to breakthroughs in science, finance, and beyond.&lt;/p>
-&lt;p>Organized in collaboration with Centre for Development of Advanced Computing (C-DAC) and NVIDIA NVAITC team.&lt;/p>
-&lt;p>For registration and session recordings: &lt;a href="mailto:npsfhelp@cdac.in">npsfhelp@cdac.in&lt;/a>&lt;/p></description></item><item><title>Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models</title><link>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid><description>&lt;p>&lt;strong>Workshop: Building Indian Language Foundation Models&lt;/strong>&lt;/p>
+&lt;p>This series brings cutting-edge foundational model development to practitioners and researchers across India.&lt;/p></description></item><item><title>Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models</title><link>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid><description>&lt;p>&lt;strong>Workshop: Building Indian Language Foundation Models&lt;/strong>&lt;/p>
 &lt;p>Presented at NASSCOM&amp;rsquo;s National Leadership and Technology Forum (NLTF 2024), India&amp;rsquo;s premier platform for technology and business leadership.&lt;/p>
 &lt;h2 id="presentation-overview">Presentation Overview&lt;/h2>
 &lt;p>Shared insights and technical approaches from building large-scale foundation models specifically designed for Indian languages, addressing the unique challenges of linguistic diversity in India.&lt;/p>
