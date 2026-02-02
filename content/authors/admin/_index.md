@@ -96,7 +96,7 @@ highlight_name: true
 I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team.
 
 At NVIDIA, I focus on:
-- **Foundation Models**: Building multilingual and domain-specific foundation models for Indian languages and scientific domains. With additional focus on **AI for Science** such as geospatial foundation models, air pollution models, <em>etc.</em>
+- **Foundation Models**: Building multilingual and domain-specific foundation models for Indian languages and scientific domains. With additional focus on **AI for Science** models such as geospatial foundation models, air pollution models, <em>etc.</em>
 - **Research Collaborations**: Collaborating with academic institutions and research organizations to advance AI applications in science and technology.
 
 My work involves architecting AI solutions, conducting applied research, and enabling the broader research community through technical workshops and collaborations.

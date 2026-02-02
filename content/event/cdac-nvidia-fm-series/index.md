@@ -32,19 +32,14 @@ projects: []
 
 **Lecture Series on Foundational Models Development - Collaboration with C-DAC**
 
-Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle, powered by the PARAM Siddhi-AI supercomputer.
-
-**My Session:** Deploying Foundational Models: Challenges and Best Practices
+Multi-session hands-on workshop series covering the complete foundational models (FMs) development lifecycle. Attended by 1000+ participants across research labs, academia and industry.
+List of sessions delivered by me.
 
 **Series Topics:**
 1. Cluster Health Check using NCCL and MLPerf Benchmarks
 2. Large-scale data curation
 3. Distributed and stable training
-4. Deploying Foundational Models: Challenges and Best Practices *(My session)*
+4. Deploying Foundational Models: Challenges and Best Practices 
 5. Post-training and Evaluation
 
-This series brings cutting-edge foundational model development to practitioners across India, covering applications from summarization and conversational AI in diverse languages to breakthroughs in science, finance, and beyond.
-
-Organized in collaboration with Centre for Development of Advanced Computing (C-DAC) and NVIDIA NVAITC team.
-
-For registration and session recordings: npsfhelp@cdac.in
+This series brings cutting-edge foundational model development to practitioners and researchers across India. 
