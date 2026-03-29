@@ -42,59 +42,36 @@ Always check current branch: `git branch`
 
 ## 🚢 Deployment Workflow
 
-### Easy Way: Use Deploy Script (Recommended)
-```powershell
-# From source branch, run:
-.\deploy.ps1
-```
-This script automatically:
-- Builds the site
-- Switches to master branch
-- Copies public/ to master root
-- Commits and pushes
-- Switches back to source
+**No branch switching needed.** There are two independent git repos:
+- **Main repo** (`ayushbits.github.io/`) — source code, always on `source` branch
+- **`public/`** — its own git repo, always on `master`, pushes to GitHub Pages
 
-### Manual Deployment
-
-**Step 1:** Make changes on source branch
+### Step 1: Make & test changes (source branch)
 ```powershell
-git checkout source
 # Edit files in content/home/, content/publication/, etc.
-```
-
-**Step 2:** Test locally
-```powershell
 .\.hugo\hugo.exe server
 # Visit http://localhost:1313
 ```
 
-**Step 3:** Build site
-```powershell
-.\.hugo\hugo.exe --gc --minify
-```
-
-**Step 4:** Commit source changes
+### Step 2: Commit source changes
 ```powershell
 git add .
 git commit -m "Update content"
 git push origin source
 ```
 
-**Step 5:** Deploy to master
+### Step 3: Build site
 ```powershell
-# Switch to master branch
-git checkout master
+.\.hugo\hugo.exe
+```
 
-# Copy public/ contents to root
-Copy-Item -Path public\* -Destination . -Recurse -Force
-
-# Commit and push
+### Step 4: Deploy to GitHub Pages
+```powershell
+cd public
 git add .
-git commit -m "Deploy: $(Get-Date -Format 'yyyy-MM-dd')"
-git push origin master
-
-# Switch back to source
-git checkout source
+git commit -m "Deploy"
+git push origin HEAD:master
+cd ..
 ```
 
 Wait 1-2 minutes for changes to appear on ayushbits.github.io
