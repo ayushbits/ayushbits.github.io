@@ -37,7 +37,24 @@ experience:
       * Providing technical expertise on NVIDIA GPU acceleration, large language models, and AI infrastructure
       * Architecting scalable AI solutions for diverse industry verticals
       * Mentoring teams on best practices for AI/ML model development and deployment
+      * Led "LLM Development from Scratch" workshop series attended by 1,000+ participants from IITs, CDAC, and AI startups
+      * Industry keynote on Mamba/SSM architectures at PREMI 2025, IIT Delhi (100+ attendees)
+      * 3-hour hands-on LLM workshop at Conference on Scientific ML, IISc Bangalore (150+ attendees)
+      * 10+ sessions at CDAC, IITs, SAIL, and Thapar University on NVIDIA AI stack
 
+
+  - title: Adjunct Faculty
+    company: IIT Kharagpur
+    company_url: 'https://www.iitkgp.ac.in'
+    company_logo:
+    location: Kharagpur
+    date_start: '2026-01-01'
+    date_end: '2026-05-01'
+    description: |2-
+      Delivered lectures in the Deep Learning course (Spring 2026) to a class of 150+ students,
+      focusing on the systems perspective of large-scale AI development — covering training
+      infrastructure, inference optimization, and deployment of deep learning models at scale.
+      ([Slides](https://github.com/ayushbits/large-scale-ai-lectures))
 
   - title: Research Scientist
     company: Vizzhy Inc

@@ -101,6 +101,8 @@ At NVIDIA, I focus on:
 
 My work involves architecting AI solutions, conducting applied research, and enabling the broader research community through technical workshops and collaborations.
 
+I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the Deep Learning course during Spring 2026 semester to a class of 150+ students — focusing on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning models.
+
 Previously, I have completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan</a>. I was fortunate to be funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.<!-- and <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html" target="_blank">Prof. Manjesh Kumar Hanawal</a> -->
 My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. I have worked on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.
 
