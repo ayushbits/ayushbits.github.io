@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Solutions Architect
+  - title: Senior Solutions Architect 
     company: NVIDIA
     company_url: 'https://nvidia.com'
     company_logo: nvidia

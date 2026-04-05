@@ -10,27 +10,28 @@ last_name: Maheshwari
 superuser: true
 
 # Role/position/tagline
-role: Sr. Solutions Architect at [NVIDIA](https://www.nvidia.com) <br> PhD in NLP/ML from [CSE, IITB](https://www.cse.iitb.ac.in)
+role: Senior Solutions Architect at [NVIDIA](https://www.nvidia.com) <br> Foundation Models, NLP, and AI for Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  # - name: Vizzhy Inc, Bengaluru
-  #   url: https://vizzhy.com
+  # - name: NVIDIA
+  #   url: https://www.nvidia.com
   # - name: CSE, IIT Bombay
   #   url: https://www.cse.iitb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, NLP and machine translation.
+bio: I work on foundation models, multilingual NLP, machine translation, and AI for Science.
 
 # Interests to show in About widget
 interests:
+  - Foundation Models
   - Large Language Models
   - Natural Language Processing
+  - AI for Science
   - Human-in-the-loop AI
   - Neural Machine Translation
   - Machine Learning
   - Information Retrieval
-
 
 # Education to show in About widget
 education:
@@ -38,24 +39,15 @@ education:
     - course: PhD in Computer Science
       institution: Indian Institute of Technology Bombay
       year: Jan 2019 - Aug 2023 (Defended July 2024)
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    # - course: BTech (CSE)
-    #   institution: Rajasthan Technical University
-    #   year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: cv
     icon_pack: ai
     link: 'uploads/cv_Ayush.pdf'
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=7E4Vjm0AAAAJ
   - icon: github
@@ -71,16 +63,9 @@ social:
   - icon: calendar-check
     icon_pack: fas
     link: https://topmate.io/ayush_iitb
-    label: Book 1:1 session on Topmate
+    label: Book a 1:1 session on Topmate
     display:
       header: true
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: envelope
-#   icon_pack: fas
-#   link: uploads/Resume_Ayush.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -88,26 +73,33 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**🎉 Update:** PhD completed (July 2024) • Now at NVIDIA.
+
+**🎉 Update:** PhD completed in July 2024 • Currently at NVIDIA • Delivered lectures on **Systems View of AI** at IIT Kharagpur (Spring 2026)
 
 ---
 
+I am Ayush Maheshwari (आयुष माहेश्वरी), a Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a>, where I work with the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> team.
 
-I am Ayush Maheshwari (आयुष माहेश्वरी), working as Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a> in the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> Team.
+My work focuses on multilingual and domain-specific foundation models, AI for Science, and research collaborations with academic and scientific institutions.
 
 At NVIDIA, I focus on:
-- **Foundation Models**: Building multilingual and domain-specific foundation models for Indian languages and scientific domains. With additional focus on **AI for Science** models such as geospatial foundation models, air pollution models, <em>etc.</em>
-- **Research Collaborations**: Collaborating with academic institutions and research organizations to advance AI applications in science and technology.
 
-My work involves architecting AI solutions, conducting applied research, and enabling the broader research community through technical workshops and collaborations.
+- **Foundation Models** for Indian languages and scientific domains
+- **AI for Science**, including geospatial foundation models and air-pollution modeling
+- **Research Collaborations** with academic institutions and research organizations to advance impactful AI applications
 
-I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the Deep Learning course during Spring 2026 semester to a class of 150+ students — focusing on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning models.
+My work spans AI solution architecture, applied research, and community enablement through technical workshops, teaching, and collaborations.
 
-Previously, I have completed my PhD from <a href="https://www.cse.iitb.ac.in">CSE, IITB (India)</a> with <a href="https://www.cse.iitb.ac.in/~ganesh"> Prof. Ganesh Ramakrishnan</a>. I was fortunate to be funded by Ekal fellowship from <a href="www.ekal.org">Ekal foundation</a> during my PhD.<!-- and <a href="https://www.ieor.iitb.ac.in/files/faculty/mhanawal/index.html" target="_blank">Prof. Manjesh Kumar Hanawal</a> -->
-My research interests lie in the area of Natural Language Processing, Graphs from machine learning perspective. I have worked on constrained neural machine translation and  semi- and un-supervised machine learning problems with data-programming.
+I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the **Deep Learning** course during the **Spring 2026** semester to a class of **150+ students**. These lectures focused on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning systems.
 
-During my PhD, I was a key member of neural machine translation project, <a href="https://udaanproject.org">UDAAN</a>, which helps publishers to quickly translate technical content in Indian languages. The project is open-source and used by several Indian government technical education agencies and official languages departments.
-In my spare time, I enjoy playing tabletennis, cricket and reading about Indian culture, Ramáyaṇa and Mahábhárat. <br/>
+Previously, I completed my PhD at <a href="https://www.cse.iitb.ac.in">CSE, IIT Bombay</a> under the guidance of <a href="https://www.cse.iitb.ac.in/~ganesh">Prof. Ganesh Ramakrishnan</a>. I was fortunate to be supported by the <a href="https://www.ekal.org">Ekal Fellowship</a> during my PhD.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}
-(Last updated: May 2025)
+My research interests include natural language processing, machine learning, graph-based learning, and multilingual AI. I have worked on constrained neural machine translation, semi-supervised and unsupervised learning, and data programming.
+
+During my PhD, I was a key member of the neural machine translation project <a href="https://udaanproject.org">UDAAN</a>, which helps publishers translate technical content into Indian languages at scale. The project is open source and has been used by several Indian government technical education agencies and official language departments.
+
+In my spare time, I enjoy playing table tennis and cricket, and reading about Indian culture, the Ramayana, and the Mahabharata.  
+<br/>
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}  
+(Last updated: April 2026)
