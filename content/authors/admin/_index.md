@@ -38,8 +38,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Indian Institute of Technology Bombay
-      year: Jan 2019 - Aug 2023 (Defended July 2024)
-
+      year: Jan 2019 - Aug 2023
 # Social/Academic Networking
 social:
   - icon: cv
@@ -74,8 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-**🎉 Update:** PhD completed in July 2024 • Currently at NVIDIA • Delivered lectures on **Systems View of AI** at IIT Kharagpur (Spring 2026)
-
 ---
 
 I am Ayush Maheshwari (आयुष माहेश्वरी), a Senior Solutions Architect at <a href="https://www.nvidia.com/">NVIDIA</a>, where I work with the <a href="https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research">NVAITC India</a> team.
@@ -92,11 +89,9 @@ My work spans AI solution architecture, applied research, and community enableme
 
 I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the **Deep Learning** course during the **Spring 2026** semester to a class of **150+ students**. These lectures focused on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning systems.
 
-Previously, I completed my PhD at <a href="https://www.cse.iitb.ac.in">CSE, IIT Bombay</a> under the guidance of <a href="https://www.cse.iitb.ac.in/~ganesh">Prof. Ganesh Ramakrishnan</a>. I was fortunate to be supported by the <a href="https://www.ekal.org">Ekal Fellowship</a> during my PhD.
+Previously, I completed my PhD at <a href="https://www.cse.iitb.ac.in">CSE, IIT Bombay</a> under the guidance of <a href="https://www.cse.iitb.ac.in/~ganesh">Prof. Ganesh Ramakrishnan</a>. I was fortunate to be supported by the <a href="https://www.ekal.org">Ekal Fellowship</a> . During PhD, I have worked on problems of  constrained neural machine translation, semi-supervised and unsupervised learning, and data programming.
 
-My research interests include natural language processing, machine learning, graph-based learning, and multilingual AI. I have worked on constrained neural machine translation, semi-supervised and unsupervised learning, and data programming.
-
-During my PhD, I was a key member of the neural machine translation project <a href="https://udaanproject.org">UDAAN</a>, which helps publishers translate technical content into Indian languages at scale. The project is open source and has been used by several Indian government technical education agencies and official language departments.
+I was a key member of the neural machine translation project <a href="https://udaanproject.org">UDAAN</a>, which helps publishers translate technical content into Indian languages at scale. The project is open source and has been used by several Indian government technical education agencies and official language departments.
 
 In my spare time, I enjoy playing table tennis and cricket, and reading about Indian culture, the Ramayana, and the Mahabharata.  
 <br/>
