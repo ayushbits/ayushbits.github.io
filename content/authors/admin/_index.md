@@ -43,7 +43,7 @@ education:
 social:
   - icon: cv
     icon_pack: ai
-    link: 'uploads/cv_Ayush.pdf'
+    link: 'uploads/Resume_Ayush.pdf'
     display:
       header: true
   - icon: google-scholar
@@ -97,4 +97,4 @@ In my spare time, I enjoy playing table tennis and cricket, and reading about In
 <br/>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}  
-(Last updated: April 2026)
+(Last updated: Sep 2026)
