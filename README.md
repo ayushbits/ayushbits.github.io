@@ -140,6 +140,24 @@ See `CLAUDE.md` for detailed documentation on:
 
 
 
+### Updating the Profile Picture
+
+Replace `content/authors/admin/avatar.png` with your new PNG image. For a JPEG,
+remove that PNG and use `avatar.jpg` instead. Keep only one file with `avatar`
+in its name in this folder: the theme uses the first matching image for the
+homepage and author cards. Previous pictures are kept as `portrait-*.jpg`.
+
+The `public/` folder is generated output; adding a picture under
+`public/uploads/` does not select it as the profile picture.
+
+### Uploads and Resume Files
+
+Keep the linked resume at `static/uploads/Resume_Ayush.pdf`. Hugo copies it to
+`public/uploads/Resume_Ayush.pdf` when building; both locations are expected.
+Edit the file in `static/uploads/`, then rebuild. The root-level `uploads/`
+folder was leftover generated output and is no longer needed. Add other
+downloadable files to `static/uploads/` and link to them as `/uploads/filename`.
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
