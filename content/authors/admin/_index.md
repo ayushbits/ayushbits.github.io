@@ -24,20 +24,17 @@ bio: I work on foundation models, multilingual NLP, machine translation, and AI 
 
 # Interests to show in About widget
 interests:
-  - Foundation Models
-  - Large Language Models
-  - Natural Language Processing
+  - ML, Foundation Models, LLM
+  - NLP, MT
   - AI for Science
   - Human-in-the-loop AI
-  - Neural Machine Translation
-  - Machine Learning
-  - Information Retrieval
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Indian Institute of Technology Bombay
+    - course: PhD in ML
+      institution: CSE, Indian Institute of Technology Bombay
       year: Jan 2019 - Aug 2023
 # Social/Academic Networking
 social:
@@ -80,21 +77,18 @@ I am Ayush Maheshwari (आयुष माहेश्वरी), a Senior Solut
 My work focuses on multilingual and domain-specific foundation models, AI for Science, and research collaborations with academic and scientific institutions.
 
 At NVIDIA, I focus on:
-
 - **Foundation Models** for Indian languages and scientific domains
 - **AI for Science**, including geospatial foundation models and air-pollution modeling
 - **Research Collaborations** with academic institutions and research organizations to advance impactful AI applications
 
-My work spans AI solution architecture, applied research, and community enablement through technical workshops, teaching, and collaborations.
-
-I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the **Deep Learning** course during the **Spring 2026** semester to a class of **150+ students**. These lectures focused on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning systems.
+My work spans AI solution architecture, applied research, and ecosystem engagement through technical workshops, teaching, and collaborations.
+I also served as **Adjunct Faculty at IIT Kharagpur**, where I delivered lectures in the **Deep Learning** course during the **Spring 2026** semester to a class of **150+ students**. These lectures focused on the systems perspective of large-scale AI development, including training, inference, and deployment of modern deep learning systems. <a href="https://github.com/ayushbits/large-scale-ai-lectures"> [Lecture Slides]</a>
 
 Previously, I completed my PhD at <a href="https://www.cse.iitb.ac.in">CSE, IIT Bombay</a> under the guidance of <a href="https://www.cse.iitb.ac.in/~ganesh">Prof. Ganesh Ramakrishnan</a>. I was fortunate to be supported by the <a href="https://www.ekal.org">Ekal Fellowship</a> . During PhD, I have worked on problems of  constrained neural machine translation, semi-supervised and unsupervised learning, and data programming.
 
-I was a key member of the neural machine translation project <a href="https://udaanproject.org">UDAAN</a>, which helps publishers translate technical content into Indian languages at scale. The project is open source and has been used by several Indian government technical education agencies and official language departments.
+<!-- I was a key member of the neural machine translation project <a href="https://udaanproject.org">UDAAN</a>, which helps publishers translate technical content into Indian languages at scale. The project is open source and has been used by several Indian government technical education agencies and official language departments. -->
 
-In my spare time, I enjoy playing table tennis and cricket, and reading about Indian culture, the Ramayana, and the Mahabharata.  
-<br/>
+In my spare time, I enjoy playing table tennis and cricket, and reading about Indian culture, the Rāmāyaṇa, and the Mahābhārata .  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Ayush.pdf" "newtab" >}}resumé{{< /staticref >}}  
 (Last updated: Sep 2026)
