@@ -43,7 +43,7 @@ education:
 social:
   - icon: cv
     icon_pack: ai
-    link: 'uploads/Resume_Ayush.pdf'
+    link: 'uploads/cv_Ayush.pdf'
     display:
       header: true
   - icon: google-scholar
