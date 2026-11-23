@@ -1,0 +1,86 @@
+{{- define "main" -}}
+
+{{/* Keep Wowchemy's search and filter behavior for the numbered list. */}}
+{{ .Store.Set "has_isotope" true }}
+{{ $publications := .Pages.ByDate.Reverse }}
+{{/* Display labels for the publication types in the content files. */}}
+{{ $typeLabels := dict
+  "0" "Uncategorized"
+  "1" "Conference papers"
+  "2" "Journal articles"
+  "3" "Preprints"
+  "4" "Reports"
+  "5" "Books"
+  "6" "Book chapters"
+  "7" "Theses"
+  "8" "Patents"
+  "workshop-paper" "Workshop papers"
+}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+      {{ with .Content }}
+        <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      <p><strong>{{ len $publications }}</strong> {{ if eq (len $publications) 1 }}publication{{ else }}publications{{ end }} total</p>
+
+      {{ $years := slice }}
+      {{ range $publications }}
+        {{ $years = $years | append (.Date.Format "2006") }}
+      {{ end }}
+
+      <div class="form-row align-items-end mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+                 autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <label for="publication-type-filter" class="small font-weight-bold mb-1">Publication type</label>
+          <select id="publication-type-filter" class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">All types</option>
+            {{ range $type, $_ := site.Taxonomies.publication_types }}
+              <option value=".pubtype-{{ $type }}">
+                {{ with index $typeLabels $type }}
+                  {{ . }}
+                {{ else }}
+                  {{ i18n (printf "pub_%s" (strings.Replace $type "-" "_")) | default (strings.Title $type) }}
+                {{ end }}
+              </option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ range $years | uniq }}
+              <option value=".year-{{ . }}">{{ . }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+
+      <ol id="container-publications" class="list-unstyled" role="list">
+        {{ range $index, $item := $publications }}
+          {{ $type := 0 }}
+          {{ with $item.Params.publication_types }}
+            {{ $type = index . 0 }}
+          {{ end }}
+          <li class="grid-sizer col-lg-12 isotope-item pubtype-{{ $type }} year-{{ $item.Date.Format "2006" }}">
+            <div class="d-flex">
+              <span class="publication-number mr-3">{{ add $index 1 }}.</span>
+              <div class="flex-grow-1">
+                {{ partial "functions/render_view" (dict "page" $ "item" $item "view" ($.Params.view | default "compact") "index" $index) }}
+              </div>
+            </div>
+          </li>
+        {{ end }}
+      </ol>
+    </div>
+  </div>
+</div>
+
+{{- end -}}

@@ -7,7 +7,7 @@ authors:
   - Brejesh Lall
 date: '2026-03-01T00:00:00Z'
 doi: '10.1109/WACVW68408.2026.00167'
-publication_types: ['1']
+publication_types: ['workshop-paper']
 publication: '1st Workshop on Foundational Models Beyond the Visual Spectrum (FoMoV), WACV 2026'
 summary: 'Tests whether segmentation maps improve thermal image synthesis from RGB in complex scenes. An RGB-only model often matches or outperforms models that also use segmentation maps.'
 tags: [Thermal Imaging, Computer Vision]

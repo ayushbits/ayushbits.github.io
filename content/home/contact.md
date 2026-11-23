@@ -13,7 +13,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   # form:
@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ayush.hakmn@gmail.com
+  email: '<firstname>.hakmn@gmail.com'
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -45,11 +45,11 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter DM
+      name: X
       link: 'https://twitter.com/ayushmx'
     - icon: linkedin
       icon_pack: fab
-      name: LinkedIn Message
+      name: LinkedIn
       link: 'https://www.linkedin.com/in/ayushx/'
     # - icon: video
     #   icon_pack: fas
