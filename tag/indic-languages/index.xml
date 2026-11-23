@@ -2,23 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indic Languages | Ayush Maheshwari</title>
-    <link>/tag/indic-languages/</link>
-      <atom:link href="/tag/indic-languages/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushbits.github.io/tag/indic-languages/</link>
+      <atom:link href="https://ayushbits.github.io/tag/indic-languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Indic Languages</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Indic Languages</title>
-      <link>/tag/indic-languages/</link>
+      <link>https://ayushbits.github.io/tag/indic-languages/</link>
     </image>
     
     <item>
-      <title>Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models</title>
-      <link>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link>
-      <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid>
+      <title>Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study</title>
+      <link>https://ayushbits.github.io/publication/loresmt-nmt/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/loresmt-nmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop Presentation at NASSCOM NTLF 2024 - Building Indian Language Foundation Models</title>
+      <link>https://ayushbits.github.io/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/talk/workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Workshop: Building Indian Language Foundation Models&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Presented at NASSCOM&amp;rsquo;s National Leadership and Technology Forum (NLTF 2024), India&amp;rsquo;s premier platform for technology and business leadership.&lt;/p&gt;
+&lt;p&gt;Presented at the NASSCOM Technology and Leadership Forum (NTLF 2024), held in Mumbai on February 20?21, 2024.&lt;/p&gt;
 &lt;h2 id=&#34;presentation-overview&#34;&gt;Presentation Overview&lt;/h2&gt;
 &lt;p&gt;Shared insights and technical approaches from building large-scale foundation models specifically designed for Indian languages, addressing the unique challenges of linguistic diversity in India.&lt;/p&gt;
 &lt;h2 id=&#34;key-topics-covered&#34;&gt;Key Topics Covered:&lt;/h2&gt;

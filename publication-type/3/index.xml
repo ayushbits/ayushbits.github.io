@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Ayush Maheshwari</title>
+    <link>https://ayushbits.github.io/publication-type/3/</link>
+      <atom:link href="https://ayushbits.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://ayushbits.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>ParamBench: A Graduate-Level Benchmark for Evaluating LLM Understanding on Indic Subjects</title>
+      <link>https://ayushbits.github.io/publication/parambench/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/parambench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peak Electricity Demand and Global Warming in the Industrial and Residential areas of Pune : An Extreme Value Approach</title>
+      <link>https://ayushbits.github.io/publication/elec-pune/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/elec-pune/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

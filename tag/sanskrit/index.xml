@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanskrit | Ayush Maheshwari</title>
-    <link>/tag/sanskrit/</link>
-      <atom:link href="/tag/sanskrit/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ayushbits.github.io/tag/sanskrit/</link>
+      <atom:link href="https://ayushbits.github.io/tag/sanskrit/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanskrit</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Tue, 06 Dec 2022 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sanskrit</title>
-      <link>/tag/sanskrit/</link>
+      <link>https://ayushbits.github.io/tag/sanskrit/</link>
     </image>
     
     <item>
       <title>Paper Presentations at EMNLP 2022 - Post-OCR Correction and Data Programming</title>
-      <link>/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</link>
+      <link>https://ayushbits.github.io/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</link>
       <pubDate>Tue, 06 Dec 2022 13:00:00 +0000</pubDate>
-      <guid>/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</guid>
+      <guid>https://ayushbits.github.io/talk/paper-presentations-at-emnlp-2022-post-ocr-correction-and-data-programming/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Presented Two Papers at EMNLP 2022&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Attended the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP) in Abu Dhabi, where I presented two research papers published in EMNLP 2022 Findings.&lt;/p&gt;
 &lt;h2 id=&#34;paper-1-post-ocr-text-correction-in-sanskrit&#34;&gt;Paper 1: Post-OCR Text Correction in Sanskrit&lt;/h2&gt;
