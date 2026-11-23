@@ -17,8 +17,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-04-01T00:00:00Z'
-doi: ''
+date: '2021-07-01T00:00:00Z'
+doi: '10.1109/IJCNN52387.2021.9533448'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-01T00:00:00Z'
@@ -48,14 +48,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2104.04998'
+url_pdf: 'https://arxiv.org/pdf/2104.04998'
 url_code: 'https://github.com/atul04/Explainable-Latent-Structures-Using-Attention'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
 # url_project: 'https://www.udaanproject.org'
 url_slides: ''
 # url_source: 'https://www.udaanproject.org/download_tool.html'
-url_video: 'https://youtu.be/ZCm3kO7BT_k?t=3945'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -79,19 +78,3 @@ url_video: 'https://youtu.be/ZCm3kO7BT_k?t=3945'
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-

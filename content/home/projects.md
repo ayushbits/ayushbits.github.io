@@ -10,7 +10,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 55
 
 title: Projects
 subtitle: ''
@@ -37,7 +37,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '3'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -47,5 +47,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

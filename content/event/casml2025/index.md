@@ -1,15 +1,14 @@
 ---
 title: CASML 2025 - LLM Development Workshop at IISc Bangalore
 
-event: Conference on Applied Statistics and Machine Learning (CASML 2025)
-event_url: https://casml.in/
+event: Conference on Applied AI and Scientific Machine Learning (CASML 2025)
 
 location: IISc Bangalore
 summary: Day 2 workshop on mastering foundations of LLM development on NVIDIA platforms. IndiaAI Official Pre-Summit Event for AI Impact Summit 2026.
 
 # Talk start and end times.
-date: '2025-03-15T09:00:00Z'
-date_end: '2025-03-15T17:00:00Z'
+date: '2025-12-09T14:00:00+05:30'
+date_end: '2025-12-09T17:30:00+05:30'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

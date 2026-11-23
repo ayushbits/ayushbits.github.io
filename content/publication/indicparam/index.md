@@ -7,7 +7,7 @@ title: 'IndicParam: Benchmark to evaluate LLMs on low-resource Indic Languages'
 authors:
   - admin
   - Kaushal Sharma 
-  - Vivek Patel
+  - Vivekkumar Vasudevbhai Patel
   - Aditya Maheshwari
 
 # Author notes (optional)
@@ -15,8 +15,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-12-01T00:00:00Z'
-doi: ''
+date: '2026-10-01T00:00:00Z'
+doi: '10.18653/2026.emnlp-main.250'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-12-01T00:00:00Z'
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2512.00333'
+url_pdf: 'https://aclanthology.org/2026.emnlp-main.250/'
 url_code: 'https://github.com/ayushbits/IndicParam'
 url_dataset: 'https://huggingface.co/datasets/bharatgenai/IndicParam'
 url_poster: ''
@@ -77,19 +77,3 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-

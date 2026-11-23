@@ -7,8 +7,8 @@ title: 'LexGen: Domain-aware Multilingual Lexicon Generation'
 authors:
   - admin
   - Atul Kumar Singh
-  - Karthika NJ
-  - Krishnakant Bhat
+  - N J Karthika
+  - Krishnakant Bhatt
   - Preethi Jyothi
   - Ganesh Ramakrishnan
 
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2405.11200'
+url_pdf: 'https://aclanthology.org/2025.acl-long.365/'
 url_code: 'https://github.com/Atulkmrsingh/lexgen'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
@@ -82,16 +82,3 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-

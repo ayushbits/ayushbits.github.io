@@ -1,7 +1,8 @@
 ---
-title: Workshop Presentation at NASSCOM NLTF 2024 - Building Indian Language Foundation Models
+title: Workshop Presentation at NASSCOM NTLF 2024 - Building Indian Language Foundation Models
+slug: workshop-presentation-at-nasscom-nltf-2024-building-indian-language-foundation-models
 
-event: NASSCOM National Leadership and Technology Forum (NLTF 2024)
+event: NASSCOM Technology and Leadership Forum (NTLF 2024)
 event_url: https://nasscom.in/ntlf/
 
 location: Mumbai, India
@@ -11,9 +12,9 @@ summary: Presented work on building large-scale foundation models for Indian lan
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-19T12:00:00Z'
-date_end: '2024-02-19T13:30:00Z'
-all_day: false
+date: '2024-02-20'
+date_end: '2024-02-21'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-02-20T00:00:00Z'
@@ -56,7 +57,7 @@ projects:
 
 **Workshop: Building Indian Language Foundation Models**
 
-Presented at NASSCOM's National Leadership and Technology Forum (NLTF 2024), India's premier platform for technology and business leadership.
+Presented at the NASSCOM Technology and Leadership Forum (NTLF 2024), held in Mumbai on February 20?21, 2024.
 
 ## Presentation Overview
 

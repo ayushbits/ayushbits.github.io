@@ -1,14 +1,14 @@
 ---
-title: 'Reweighing auxiliary losses in supervised learning'
+title: 'Adaptive Mixing of Auxiliary Losses in Supervised Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Durga S
+  - Durga Sivasubramanian
   - admin
-  - Pradeep Shenoy
   - Prathosh AP
+  - Pradeep Shenoy
   - Ganesh Ramakrishnan
 
 # Author notes (optional)
@@ -16,8 +16,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-11-19T00:00:00Z'
-doi: ''
+date: '2023-06-01T00:00:00Z'
+doi: '10.1609/aaai.v37i8.26176'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-19T00:00:00Z'
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2202.03250'
+url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/download/26176/25948'
 # url_code: 'https://github.com/ayushbits/robust-aggregate-lfs'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''

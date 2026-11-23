@@ -10,7 +10,7 @@ authors:
   - Amrith Krishna
   - Atul Kumar Singh
   - Ganesh Ramakrishnan
-  - G. Anil Kumar
+  - Anil Kumar Gourishetty
   - Jitin Singla
 
 # Author notes (optional)
@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2305.14004'
+url_pdf: 'https://aclanthology.org/2024.lrec-main.1245/'
 url_code: 'https://github.com/ayushbits/saamayik'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'Poster_EACL.pdf'
@@ -80,19 +80,11 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
 We release Sāmayik, a dataset of around 53,000 parallel English-Sanskrit sentences, written in contemporary prose. Sanskrit is a classical language still in sustenance and has a rich documented heritage. However, due to the limited availability of digitized content, it still remains a low-resource language. Existing Sanskrit corpora, whether monolingual or bilingual, have predominantly focused on poetry and offer limited coverage of contemporary written materials. Sāmayik is curated from a diverse range of domains, including language instruction material, textual teaching pedagogy, and online tutorials, among others. It stands out as a unique resource that specifically caters to the contemporary usage of Sanskrit, with a primary emphasis on prose writing. Translation models trained on our dataset demonstrate statistically significant improvements when translating out-of-domain contemporary corpora, outperforming models trained on older classical-era poetry datasets. Finally, we also release benchmark models by adapting four multilingual pre-trained models, three of them have not been previously exposed to Sanskrit for translating between English and Sanskrit while one of them is multi-lingual pre-trained translation model including English and Sanskrit. The dataset and source code is present at https://github.com/ayushbits/saamayik.
 
 
 
 
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
  -->

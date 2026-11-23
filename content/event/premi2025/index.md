@@ -1,15 +1,15 @@
 ---
-title: Tutorial at PReMI 2025 - Beyond Transformers - Deep Dive into Mamba and SSMs
+title: "PReMI 2025 Industry Talk: Beyond Transformers, Mamba and State Space Models"
+slug: tutorial-at-premi-2025-beyond-transformers-deep-dive-into-mamba-and-ssms
 
 event: 11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025)
-event_url: https://premi25.iitd.ac.in/
+event_url: https://premi25.iitd.ac.in/industry-sessions.html
 
 location: IIT Delhi, India
-summary: Tutorial session on state space models (SSMs) and Mamba architecture as alternatives to transformer models for sequence modeling.
+summary: Industry talk on state space models (SSMs) and Mamba architecture as alternatives to transformer models for sequence modeling.
 
 # Talk start and end times.
-date: '2025-12-11T09:00:00Z'
-date_end: '2025-12-11T12:30:00Z'
+date: '2025-12-12T18:45:00+05:30'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -22,8 +22,8 @@ tags: [Mamba, SSM, State Space Models, Transformers, Deep Learning, Sequence Mod
 featured: true
 
 links:
-  - name: Conference
-    url: https://premi25.iitd.ac.in
+  - name: Industry program
+    url: https://premi25.iitd.ac.in/industry-sessions.html
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,11 +32,11 @@ url_video: ''
 projects: []
 ---
 
-**Tutorial: Beyond Transformers - Deep Dive into Mamba and State Space Models**
+**Beyond Transformers: A Deep Dive into Mamba and State Space Models**
 
 Presented at the 11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025), IIT Delhi.
 
-This tutorial session explored:
+The talk covered:
 - State Space Models (SSMs) fundamentals and evolution
 - Mamba architecture - a linear-time sequence modeling alternative to transformers
 - Selective state spaces and their advantages
@@ -46,4 +46,4 @@ This tutorial session explored:
 PReMI 2025 brought together researchers and practitioners in pattern recognition, machine intelligence, and related fields from across the globe.
 
 **Conference Date:** December 11-14, 2025
-**Tutorial Date:** December 11, 2025 (Pre-conference Tutorial Day)
+**Industry talk:** December 12, 2025 at 6:45 p.m. IST, Seminar Hall

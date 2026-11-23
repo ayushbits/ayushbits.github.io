@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: '10.1145/3570991.3571068'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-01T00:00:00Z'
@@ -28,7 +28,7 @@ publishDate: '2022-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Best Paper Award In *CODS-COMAD 2023*
+publication: Best Demo Paper Award at *CODS-COMAD 2023*
 # publication_short: In *ICW*
 
 abstract: UDAAN is an end-to-end machine translation and post-editing pipeline that enables rapid translation of technical documents into Indian languages. The tool integrates neural MT with a user-friendly post-editing interface, helping translators achieve professional-quality translations efficiently. Currently used by 100+ translators across 10 Indian languages to translate 50+ technical books for government agencies.

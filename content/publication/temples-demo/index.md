@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.aclweb.org/anthology/N18-5010/'
+url_pdf: 'https://aclanthology.org/N18-5010/'
 # url_code: 'https://github.com/decile-team/spear'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'DynGAN_Poster.pdf'
@@ -78,19 +78,3 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-

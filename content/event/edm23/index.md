@@ -14,8 +14,8 @@ In this tutorial, we provide insights from our translation ecosystem (https://ud
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-14T09:00:00Z'
-date_end: '2023-07-14T12:30:00Z'
+date: '2023-07-14T15:30:00+05:30'
+date_end: '2023-07-14T18:45:00+05:30'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -60,6 +60,8 @@ projects:
 **Invited Tutorial: Data Efficient Machine Learning for Educational Content Creation**
 
 Co-presented with Prof. Ganesh Ramakrishnan at the 16th International Conference on Educational Data Mining (EDM 2023), IISc Bangalore.
+
+[Conference schedule](https://educationaldatamining.org/edm2023/conference-schedule/): July 14, 2023, 3:30?5:00 p.m. and 5:15?6:45 p.m. IST in Hall A.
 
 ## Tutorial Overview
 

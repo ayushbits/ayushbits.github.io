@@ -38,7 +38,7 @@ experience:
       * Architecting scalable AI solutions for diverse industry verticals
       * Mentoring teams on best practices for AI/ML model development and deployment
       * Led "LLM Development from Scratch" workshop series attended by 1,000+ participants from IITs, CDAC, and AI startups
-      * Industry keynote on Mamba/SSM architectures at PREMI 2025, IIT Delhi (100+ attendees)
+      * Industry talk on Mamba and state space models at PReMI 2025, IIT Delhi (100+ attendees)
       * 3-hour hands-on LLM workshop at Conference on Scientific ML, IISc Bangalore (150+ attendees)
       * 10+ sessions at CDAC, IITs, SAIL, and Thapar University on NVIDIA AI stack
 
@@ -86,7 +86,7 @@ experience:
 
   - title: Project Engineer
     company: IIT Bombay
-    company_url: 'www.iitb.ac.in'
+    company_url: 'https://www.iitb.ac.in/'
     company_logo: iitb
     location: Mumbai
     date_start: '2016-01-01'
@@ -95,7 +95,7 @@ experience:
 
   - title: System Engineer
     company: Tata Consultancy Services
-    company_url: 'tcs.com'
+    company_url: 'https://www.tcs.com/'
     company_logo: tcs
     location: Mumbai
     date_start: '2011-10-01'
