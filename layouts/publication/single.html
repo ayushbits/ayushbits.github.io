@@ -1,0 +1,32 @@
+{{- define "main" -}}
+
+<div class="pub">
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    {{ with .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract">{{ . | markdownify }}</p>
+    {{ end }}
+
+    {{ with .Params.publication }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
+          <div class="col-12 col-md-9">{{ . | markdownify }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    <div class="space-below"></div>
+    <div class="article-style">{{ .Content }}</div>
+    {{ partial "page_footer" . }}
+  </div>
+</div>
+
+{{- end -}}
