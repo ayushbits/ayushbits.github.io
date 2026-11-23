@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop-paper | Ayush Maheshwari</title>
+    <link>https://ayushbits.github.io/publication-type/workshop-paper/</link>
+      <atom:link href="https://ayushbits.github.io/publication-type/workshop-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop-paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayushbits.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>workshop-paper</title>
+      <link>https://ayushbits.github.io/publication-type/workshop-paper/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking Semantics for Complex-Scene Thermal Image Generation</title>
+      <link>https://ayushbits.github.io/publication/thermal-semantics-wacv/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/thermal-semantics-wacv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study</title>
+      <link>https://ayushbits.github.io/publication/loresmt-nmt/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/loresmt-nmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tale of tails using rule augmented sequence labeling for event extraction</title>
+      <link>https://ayushbits.github.io/publication/tail-starai/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/tail-starai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynGAN: Generative Adversarial Networks for Dynamic Network Embedding</title>
+      <link>https://ayushbits.github.io/publication/dyngan/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ayushbits.github.io/publication/dyngan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>Rethinking Semantics for Complex-Scene Thermal Image Generation</title>
-      <link>https://ayushbits.github.io/publication/thermal-semantics-wacv/</link>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/publication/thermal-semantics-wacv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>LexGen: Domain-aware Multilingual Lexicon Generation</title>
       <link>https://ayushbits.github.io/publication/lexgen-acl/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -57,14 +49,6 @@
       <link>https://ayushbits.github.io/publication/emnlp-dictdis/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/emnlp-dictdis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study</title>
-      <link>https://ayushbits.github.io/publication/loresmt-nmt/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/publication/loresmt-nmt/</guid>
       <description></description>
     </item>
     
@@ -176,26 +160,10 @@ The source code is available &lt;a href=&#34;https://github.com/ayushbits/Semi-S
     </item>
     
     <item>
-      <title>Tale of tails using rule augmented sequence labeling for event extraction</title>
-      <link>https://ayushbits.github.io/publication/tail-starai/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/publication/tail-starai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OCR On-the-Go: Robust End-to-end Systems for Reading License Plates and Street Signs</title>
       <link>https://ayushbits.github.io/publication/ocr-icdar/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://ayushbits.github.io/publication/ocr-icdar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DynGAN: Generative Adversarial Networks for Dynamic Network Embedding</title>
-      <link>https://ayushbits.github.io/publication/dyngan/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ayushbits.github.io/publication/dyngan/</guid>
       <description></description>
     </item>
     
